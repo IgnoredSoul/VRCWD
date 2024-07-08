@@ -1,9 +1,6 @@
-<div align="center" style="font-size: 20px">
+<div align="center">
 
-```
-World: The Black Cat
-Date: 08/07/24
-```
+# The Black Cat | 08/07/24
 </div>
 
 <div align="center">
