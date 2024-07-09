@@ -1,4 +1,4 @@
-    /!ftraceLightmaps
+    /AvatarHeight
     /Environment/Ballroom/ballroom_day/ballroom_night
     /Environment/Ballroom/chandelier_day/chandelier_night
     /Environment/Ballroom/curtain_day/curtain_night
@@ -16,8 +16,16 @@
     /Environment/Ballroom/Dining Chair Teal/chair geo_day/chair geo_night
     /Environment/Ballroom/Dining Chair Teal/chair geo_day/chair geo_night
     /Environment/Ballroom/Drawers Table/geo_day/geo_night
+    /Environment/Ballroom/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Ballroom/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Ballroom/Drawers Table/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Ballroom/Drawers Table/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Ballroom/Drawers Table/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Ballroom/Drawers Table/Table Drawer (0)/Drawer sound
+    /Environment/Ballroom/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Ballroom/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Ballroom/Drawers Table/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Ballroom/Drawers Table/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Ballroom/Drawers Table/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Ballroom/Drawers Table/Table Drawer (1)/Drawer sound
     /Environment/Ballroom/Extra clues/Clue Location extra (0)
@@ -82,7 +90,12 @@
     /Environment/Bathroom/Bathroom Sink/Sink Door/Clue Location (Sink) (3)
     /Environment/Bathroom/Bathroom Sink/Sink Door/Clue Location (Sink) (4)
     /Environment/Bathroom/Bathroom Sink/Sink Door/Clue Location (Sink) (5)
+    /Environment/Bathroom/Bathroom Sink/Sink Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Bathroom/Bathroom Sink/Sink Door/Door contents spawn/Clue Location (Door) (2)
+    /Environment/Bathroom/Bathroom Sink/Sink Door/Door contents spawn/Clue Location (Door) (3)
     /Environment/Bathroom/Bathroom Sink/Sink Door/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Bathroom/Bathroom Sink/Sink Door/Door motion/Interact close
+    /Environment/Bathroom/Bathroom Sink/Sink Door/Door motion/Interact open
     /Environment/Bathroom/Bathroom Sink/Sink Door/Door sound
     /Environment/Bathroom/bathroom_day/bathroom_night
     /Environment/Bathroom/bathtub_day/bathtub_night
@@ -109,8 +122,13 @@
     /Environment/Bedroom/bed_day/bed_night
     /Environment/Bedroom/bedroom_day/bedroom_night
     /Environment/Bedroom/Ceiling lamp_day/Ceiling lamp_night
+    /Environment/Bedroom/Counter/Counter Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Bedroom/Counter/Counter Door/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Bedroom/Counter/Counter Door/Door contents spawn/Clue Location (Door) (2)
     /Environment/Bedroom/Counter/Counter Door/Door motion R/cabinet door geo_day/cabinet door geo_night
+    /Environment/Bedroom/Counter/Counter Door/Door motion R/Interact close
     /Environment/Bedroom/Counter/Counter Door/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Bedroom/Counter/Counter Door/Door motion/Interact close
     /Environment/Bedroom/Counter/Counter Door/Door motion/Interact open/Interact geo 2
     /Environment/Bedroom/Counter/Counter Door/Door sound
     /Environment/Bedroom/Counter/geo_day/geo_night
@@ -134,9 +152,17 @@
     /Environment/Bedroom/Extra clues/Clue Location extra (9)
     /Environment/Bedroom/Floor Lamp/geo_day/geo_night
     /Environment/Bedroom/Nightstand 1/geo_day/geo_night
+    /Environment/Bedroom/Nightstand 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Bedroom/Nightstand 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Bedroom/Nightstand 1/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Bedroom/Nightstand 1/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Bedroom/Nightstand 1/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Bedroom/Nightstand 1/Table Drawer (0)/Drawer sound
     /Environment/Bedroom/Nightstand 2/geo_day/geo_night
+    /Environment/Bedroom/Nightstand 2/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Bedroom/Nightstand 2/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Bedroom/Nightstand 2/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Bedroom/Nightstand 2/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Bedroom/Nightstand 2/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Bedroom/Nightstand 2/Table Drawer (0)/Drawer sound
     /Environment/Bedroom/Painting/art_day/art_night
@@ -151,8 +177,16 @@
     /Environment/Bedroom/Small stool_day/Small stool_night
     /Environment/Bedroom/Table Lamp/geo_day/geo_night
     /Environment/Bedroom/Vanity/Drawers Table/geo_day/geo_night
+    /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (0)/Drawer sound
+    /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Bedroom/Vanity/Drawers Table/Table Drawer (1)/Drawer sound
     /Environment/Bedroom/Vanity/vanity frame_day/vanity frame_night
@@ -167,33 +201,75 @@
     /Environment/Billiard/Billiard Table_day/Billiard Table_night
     /Environment/Billiard/billiard_day/billiard_night
     /Environment/Billiard/Bookshelf 1/Bookshelf Drawer/Drawer motion/cabinet drawer geo_day/cabinet drawer geo_night
+    /Environment/Billiard/Bookshelf 1/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Billiard/Bookshelf 1/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Billiard/Bookshelf 1/Bookshelf Drawer/Drawer motion/Interact close
+    /Environment/Billiard/Bookshelf 1/Bookshelf Drawer/Drawer motion/Interact open
     /Environment/Billiard/Bookshelf 1/Bookshelf Drawer/Drawer sound
     /Environment/Billiard/Bookshelf 1/Clue Location (bookshelf) (0)
     /Environment/Billiard/Bookshelf 1/Clue Location (bookshelf) (1)
     /Environment/Billiard/Bookshelf 1/geo_day/geo_night
     /Environment/Billiard/Bookshelf 2/Bookshelf Drawer/Drawer motion/cabinet drawer geo_day/cabinet drawer geo_night
+    /Environment/Billiard/Bookshelf 2/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Billiard/Bookshelf 2/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Billiard/Bookshelf 2/Bookshelf Drawer/Drawer motion/Interact close
+    /Environment/Billiard/Bookshelf 2/Bookshelf Drawer/Drawer motion/Interact open
     /Environment/Billiard/Bookshelf 2/Bookshelf Drawer/Drawer sound
     /Environment/Billiard/Bookshelf 2/Clue Location (bookshelf) (0)
     /Environment/Billiard/Bookshelf 2/Clue Location (bookshelf) (1)
     /Environment/Billiard/Bookshelf 2/geo_day/geo_night
+    /Environment/Billiard/China Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Billiard/China Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Billiard/China Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Billiard/China Cabinet/Cabinet Door (0)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Billiard/China Cabinet/Cabinet Door (0)/Door motion/Interact close
+    /Environment/Billiard/China Cabinet/Cabinet Door (0)/Door motion/Interact open
     /Environment/Billiard/China Cabinet/Cabinet Door (0)/Door sound
+    /Environment/Billiard/China Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Billiard/China Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Billiard/China Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Billiard/China Cabinet/Cabinet Door (1)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Billiard/China Cabinet/Cabinet Door (1)/Door motion/Interact close
+    /Environment/Billiard/China Cabinet/Cabinet Door (1)/Door motion/Interact open
     /Environment/Billiard/China Cabinet/Cabinet Door (1)/Door sound
     /Environment/Billiard/China Cabinet/Cabinet Drawer (0)/Drawer motion/cabinet drawer geo_day/cabinet drawer geo_night
+    /Environment/Billiard/China Cabinet/Cabinet Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Billiard/China Cabinet/Cabinet Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Billiard/China Cabinet/Cabinet Drawer (0)/Drawer motion/Interact close
+    /Environment/Billiard/China Cabinet/Cabinet Drawer (0)/Drawer motion/Interact open
     /Environment/Billiard/China Cabinet/Cabinet Drawer (0)/Drawer sound
     /Environment/Billiard/China Cabinet/Cabinet Drawer (2)/Drawer motion/cabinet drawer geo_day/cabinet drawer geo_night
+    /Environment/Billiard/China Cabinet/Cabinet Drawer (2)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Billiard/China Cabinet/Cabinet Drawer (2)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Billiard/China Cabinet/Cabinet Drawer (2)/Drawer motion/Interact close
+    /Environment/Billiard/China Cabinet/Cabinet Drawer (2)/Drawer motion/Interact open
     /Environment/Billiard/China Cabinet/Cabinet Drawer (2)/Drawer sound
     /Environment/Billiard/China Cabinet/Clue Location (Cabinet shelf)
     /Environment/Billiard/China Cabinet/geo_day/geo_night
     /Environment/Billiard/Drawers Table 1/geo_day/geo_night
+    /Environment/Billiard/Drawers Table 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Billiard/Drawers Table 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Billiard/Drawers Table 1/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Billiard/Drawers Table 1/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Billiard/Drawers Table 1/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Billiard/Drawers Table 1/Table Drawer (0)/Drawer sound
+    /Environment/Billiard/Drawers Table 1/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Billiard/Drawers Table 1/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Billiard/Drawers Table 1/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Billiard/Drawers Table 1/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Billiard/Drawers Table 1/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Billiard/Drawers Table 1/Table Drawer (1)/Drawer sound
     /Environment/Billiard/Drawers Table 2/geo_day/geo_night
+    /Environment/Billiard/Drawers Table 2/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Billiard/Drawers Table 2/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Billiard/Drawers Table 2/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Billiard/Drawers Table 2/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Billiard/Drawers Table 2/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Billiard/Drawers Table 2/Table Drawer (0)/Drawer sound
+    /Environment/Billiard/Drawers Table 2/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Billiard/Drawers Table 2/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Billiard/Drawers Table 2/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Billiard/Drawers Table 2/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Billiard/Drawers Table 2/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Billiard/Drawers Table 2/Table Drawer (1)/Drawer sound
     /Environment/Billiard/Extra clues/Clue Location extra (0)
@@ -220,8 +296,14 @@
     /Environment/Billiard/Extra clues/Clue Location extra (8)
     /Environment/Billiard/Extra clues/Clue Location extra (9)
     /Environment/Billiard/Floor Lamp/geo_day/geo_night
+    /Environment/Billiard/Loveseat/auto stepladder
     /Environment/Billiard/Loveseat/geo_day/geo_night
+    /Environment/Billiard/Loveseat/playerclip
     /Environment/Billiard/Nightstand/geo_day/geo_night
+    /Environment/Billiard/Nightstand/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Billiard/Nightstand/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Billiard/Nightstand/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Billiard/Nightstand/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Billiard/Nightstand/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Billiard/Nightstand/Table Drawer (0)/Drawer sound
     /Environment/Billiard/Painting/art_day/art_night
@@ -279,9 +361,19 @@
     /Environment/Cellar/Extra clues/Clue Location extra (7)
     /Environment/Cellar/Extra clues/Clue Location extra (8)
     /Environment/Cellar/Extra clues/Clue Location extra (9)
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Cellar/Kitchen Cabinet/Cabinet Door (0)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (0)/Door motion/Interact close
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (0)/Door motion/Interact open
     /Environment/Cellar/Kitchen Cabinet/Cabinet Door (0)/Door sound
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Cellar/Kitchen Cabinet/Cabinet Door (1)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (1)/Door motion/Interact close
+    /Environment/Cellar/Kitchen Cabinet/Cabinet Door (1)/Door motion/Interact open
     /Environment/Cellar/Kitchen Cabinet/Cabinet Door (1)/Door sound
     /Environment/Cellar/Kitchen Cabinet/geo_day/geo_night
     /Environment/Cellar/Medium table/geo_day/geo_night
@@ -352,13 +444,31 @@
     /Environment/Conservatory/stone bench_day/stone bench_night
     /Environment/Conservatory/stone bench_day/stone bench_night
     /Environment/Dining/chandelier_day/chandelier_night
+    /Environment/Dining/China Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Dining/China Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Dining/China Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Dining/China Cabinet/Cabinet Door (0)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Dining/China Cabinet/Cabinet Door (0)/Door motion/Interact close
+    /Environment/Dining/China Cabinet/Cabinet Door (0)/Door motion/Interact open
     /Environment/Dining/China Cabinet/Cabinet Door (0)/Door sound
+    /Environment/Dining/China Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Dining/China Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Dining/China Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Dining/China Cabinet/Cabinet Door (1)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Dining/China Cabinet/Cabinet Door (1)/Door motion/Interact close
+    /Environment/Dining/China Cabinet/Cabinet Door (1)/Door motion/Interact open
     /Environment/Dining/China Cabinet/Cabinet Door (1)/Door sound
     /Environment/Dining/China Cabinet/Cabinet Drawer (0)/Drawer motion/cabinet drawer geo_day/cabinet drawer geo_night
+    /Environment/Dining/China Cabinet/Cabinet Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Dining/China Cabinet/Cabinet Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Dining/China Cabinet/Cabinet Drawer (0)/Drawer motion/Interact close
+    /Environment/Dining/China Cabinet/Cabinet Drawer (0)/Drawer motion/Interact open
     /Environment/Dining/China Cabinet/Cabinet Drawer (0)/Drawer sound
     /Environment/Dining/China Cabinet/Cabinet Drawer (2)/Drawer motion/cabinet drawer geo_day/cabinet drawer geo_night
+    /Environment/Dining/China Cabinet/Cabinet Drawer (2)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Dining/China Cabinet/Cabinet Drawer (2)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Dining/China Cabinet/Cabinet Drawer (2)/Drawer motion/Interact close
+    /Environment/Dining/China Cabinet/Cabinet Drawer (2)/Drawer motion/Interact open
     /Environment/Dining/China Cabinet/Cabinet Drawer (2)/Drawer sound
     /Environment/Dining/China Cabinet/Clue Location (Cabinet shelf)
     /Environment/Dining/China Cabinet/geo_day/geo_night
@@ -379,13 +489,29 @@
     /Environment/Dining/dining room_day/dining room_night
     /Environment/Dining/Dining Table_day/Dining Table_night
     /Environment/Dining/Drawers Table 1/geo_day/geo_night
+    /Environment/Dining/Drawers Table 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Dining/Drawers Table 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Dining/Drawers Table 1/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Dining/Drawers Table 1/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Dining/Drawers Table 1/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Dining/Drawers Table 1/Table Drawer (0)/Drawer sound
+    /Environment/Dining/Drawers Table 1/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Dining/Drawers Table 1/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Dining/Drawers Table 1/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Dining/Drawers Table 1/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Dining/Drawers Table 1/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Dining/Drawers Table 1/Table Drawer (1)/Drawer sound
     /Environment/Dining/Drawers Table 2/geo_day/geo_night
+    /Environment/Dining/Drawers Table 2/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Dining/Drawers Table 2/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Dining/Drawers Table 2/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Dining/Drawers Table 2/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Dining/Drawers Table 2/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Dining/Drawers Table 2/Table Drawer (0)/Drawer sound
+    /Environment/Dining/Drawers Table 2/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Dining/Drawers Table 2/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Dining/Drawers Table 2/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Dining/Drawers Table 2/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Dining/Drawers Table 2/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Dining/Drawers Table 2/Table Drawer (1)/Drawer sound
     /Environment/Dining/Extra clues/Clue Location extra (0)
@@ -409,6 +535,26 @@
     /Environment/Dining/Extra clues/Clue Location extra (6)
     /Environment/Dining/Extra clues/Clue Location extra (7)
     /Environment/Dining/Extra clues/Clue Location extra (8)
+    /Environment/Dining/Feast Stuff/candlestick_day (1)/candle light
+    /Environment/Dining/Feast Stuff/candlestick_day (1)/candlestick_night/candle light
+    /Environment/Dining/Feast Stuff/candlestick_day (2)/candle light
+    /Environment/Dining/Feast Stuff/candlestick_day (2)/candlestick_night/candle light
+    /Environment/Dining/Feast Stuff/candlestick_day/candle light
+    /Environment/Dining/Feast Stuff/candlestick_day/candlestick_night/candle light
+    /Environment/Dining/Feast Stuff/feast food (1)_day/feast food (1)_night
+    /Environment/Dining/Feast Stuff/feast food (2)_day/feast food (2)_night
+    /Environment/Dining/Feast Stuff/feast food (3)_day/feast food (3)_night
+    /Environment/Dining/Feast Stuff/feast food (4)_day/feast food (4)_night
+    /Environment/Dining/Feast Stuff/feast food (5)_day/feast food (5)_night
+    /Environment/Dining/Feast Stuff/feast food_day/feast food_night
+    /Environment/Dining/Feast Stuff/place setting_day (1)/place setting_night
+    /Environment/Dining/Feast Stuff/place setting_day (2)/place setting_night
+    /Environment/Dining/Feast Stuff/place setting_day (3)/place setting_night
+    /Environment/Dining/Feast Stuff/place setting_day (4)/place setting_night
+    /Environment/Dining/Feast Stuff/place setting_day (5)/place setting_night
+    /Environment/Dining/Feast Stuff/place setting_day (6)/place setting_night
+    /Environment/Dining/Feast Stuff/place setting_day (7)/place setting_night
+    /Environment/Dining/Feast Stuff/place setting_day/place setting_night
     /Environment/Dining/Fireplace fire/fireplace logs geo_day/fireplace logs geo_night/Fireplace PointLight
     /Environment/Dining/Fireplace fire/fireplace logs geo_day/Fireplace PointLight
     /Environment/Dining/Fireplace fire/fireplace particles
@@ -450,97 +596,306 @@
     /Environment/Doors/Door (1)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (1)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (1)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (1)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (1)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (1)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (1)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (1)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (1)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (1)/Sounds/Break Sound
+    /Environment/Doors/Door (1)/Sounds/Close Sound
+    /Environment/Doors/Door (1)/Sounds/Lock Sound
+    /Environment/Doors/Door (1)/Sounds/Open Sound
+    /Environment/Doors/Door (1)/Sounds/Shove Sound
+    /Environment/Doors/Door (1)/Sounds/Unlock Sound
     /Environment/Doors/Door (13)/Door Anim/Closed collision geo
     /Environment/Doors/Door (13)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (13)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (13)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (13)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (13)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (13)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (13)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (13)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (13)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (13)/Sounds/Break Sound
+    /Environment/Doors/Door (13)/Sounds/Close Sound
+    /Environment/Doors/Door (13)/Sounds/Lock Sound
+    /Environment/Doors/Door (13)/Sounds/Open Sound
+    /Environment/Doors/Door (13)/Sounds/Shove Sound
+    /Environment/Doors/Door (13)/Sounds/Unlock Sound
     /Environment/Doors/Door (14)/Door Anim/Closed collision geo
     /Environment/Doors/Door (14)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (14)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (14)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (14)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (14)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (14)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (14)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (14)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (14)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (14)/Sounds/Break Sound
+    /Environment/Doors/Door (14)/Sounds/Close Sound
+    /Environment/Doors/Door (14)/Sounds/Lock Sound
+    /Environment/Doors/Door (14)/Sounds/Open Sound
+    /Environment/Doors/Door (14)/Sounds/Shove Sound
+    /Environment/Doors/Door (14)/Sounds/Unlock Sound
     /Environment/Doors/Door (15)/Door Anim/Closed collision geo
     /Environment/Doors/Door (15)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (15)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (15)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (15)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (15)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (15)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (15)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (15)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (15)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (15)/Sounds/Break Sound
+    /Environment/Doors/Door (15)/Sounds/Close Sound
+    /Environment/Doors/Door (15)/Sounds/Lock Sound
+    /Environment/Doors/Door (15)/Sounds/Open Sound
+    /Environment/Doors/Door (15)/Sounds/Shove Sound
+    /Environment/Doors/Door (15)/Sounds/Unlock Sound
     /Environment/Doors/Door (16)/Door Anim/Closed collision geo
     /Environment/Doors/Door (16)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (16)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (16)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (16)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (16)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (16)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (16)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (16)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (16)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (16)/Sounds/Break Sound
+    /Environment/Doors/Door (16)/Sounds/Close Sound
+    /Environment/Doors/Door (16)/Sounds/Lock Sound
+    /Environment/Doors/Door (16)/Sounds/Open Sound
+    /Environment/Doors/Door (16)/Sounds/Shove Sound
+    /Environment/Doors/Door (16)/Sounds/Unlock Sound
     /Environment/Doors/Door (17)/Door Anim/Closed collision geo
     /Environment/Doors/Door (17)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (17)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (17)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (17)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (17)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (17)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (17)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (17)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (17)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (17)/Sounds/Break Sound
+    /Environment/Doors/Door (17)/Sounds/Close Sound
+    /Environment/Doors/Door (17)/Sounds/Lock Sound
+    /Environment/Doors/Door (17)/Sounds/Open Sound
+    /Environment/Doors/Door (17)/Sounds/Shove Sound
+    /Environment/Doors/Door (17)/Sounds/Unlock Sound
     /Environment/Doors/Door (18)/Door Anim/Closed collision geo
     /Environment/Doors/Door (18)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (18)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (18)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (18)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (18)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (18)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (18)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (18)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (18)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (18)/Sounds/Break Sound
+    /Environment/Doors/Door (18)/Sounds/Close Sound
+    /Environment/Doors/Door (18)/Sounds/Lock Sound
+    /Environment/Doors/Door (18)/Sounds/Open Sound
+    /Environment/Doors/Door (18)/Sounds/Shove Sound
+    /Environment/Doors/Door (18)/Sounds/Unlock Sound
     /Environment/Doors/Door (19)/Door Anim/Closed collision geo
     /Environment/Doors/Door (19)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (19)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (19)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (19)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (19)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (19)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (19)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (19)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (19)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (19)/Sounds/Break Sound
+    /Environment/Doors/Door (19)/Sounds/Close Sound
+    /Environment/Doors/Door (19)/Sounds/Lock Sound
+    /Environment/Doors/Door (19)/Sounds/Open Sound
+    /Environment/Doors/Door (19)/Sounds/Shove Sound
+    /Environment/Doors/Door (19)/Sounds/Unlock Sound
     /Environment/Doors/Door (20)/Door Anim/Closed collision geo
     /Environment/Doors/Door (20)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (20)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (20)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (20)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (20)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (20)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (20)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (20)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (20)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (20)/Sounds/Break Sound
+    /Environment/Doors/Door (20)/Sounds/Close Sound
+    /Environment/Doors/Door (20)/Sounds/Lock Sound
+    /Environment/Doors/Door (20)/Sounds/Open Sound
+    /Environment/Doors/Door (20)/Sounds/Shove Sound
+    /Environment/Doors/Door (20)/Sounds/Unlock Sound
     /Environment/Doors/Door (21)/Door Anim/Closed collision geo
     /Environment/Doors/Door (21)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (21)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (21)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (21)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (21)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (21)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (21)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (21)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (21)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (21)/Sounds/Break Sound
+    /Environment/Doors/Door (21)/Sounds/Close Sound
+    /Environment/Doors/Door (21)/Sounds/Lock Sound
+    /Environment/Doors/Door (21)/Sounds/Open Sound
+    /Environment/Doors/Door (21)/Sounds/Shove Sound
+    /Environment/Doors/Door (21)/Sounds/Unlock Sound
+    /Environment/Doors/Door (22)/Door Anim/Closed collision geo
     /Environment/Doors/Door (22)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (22)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (22)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (22)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (22)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (22)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (22)/Door Anim/Hinge/Interact shove
     /Environment/Doors/Door (22)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (22)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (22)/Sounds/Break Sound
+    /Environment/Doors/Door (22)/Sounds/Close Sound
+    /Environment/Doors/Door (22)/Sounds/Lock Sound
+    /Environment/Doors/Door (22)/Sounds/Open Sound
+    /Environment/Doors/Door (22)/Sounds/Shove Sound
+    /Environment/Doors/Door (22)/Sounds/Unlock Sound
     /Environment/Doors/Door (23)/Door Anim/Closed collision geo
     /Environment/Doors/Door (23)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (23)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (23)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (23)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (23)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (23)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (23)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (23)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (23)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (23)/Sounds/Break Sound
+    /Environment/Doors/Door (23)/Sounds/Close Sound
+    /Environment/Doors/Door (23)/Sounds/Lock Sound
+    /Environment/Doors/Door (23)/Sounds/Open Sound
+    /Environment/Doors/Door (23)/Sounds/Shove Sound
+    /Environment/Doors/Door (23)/Sounds/Unlock Sound
     /Environment/Doors/Door (3)/Door Anim/Closed collision geo
     /Environment/Doors/Door (3)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (3)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (3)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (3)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (3)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (3)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (3)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (3)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (3)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (3)/Sounds/Break Sound
+    /Environment/Doors/Door (3)/Sounds/Close Sound
+    /Environment/Doors/Door (3)/Sounds/Lock Sound
+    /Environment/Doors/Door (3)/Sounds/Open Sound
+    /Environment/Doors/Door (3)/Sounds/Shove Sound
+    /Environment/Doors/Door (3)/Sounds/Unlock Sound
     /Environment/Doors/Door (4)/Door Anim/Closed collision geo
     /Environment/Doors/Door (4)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (4)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (4)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (4)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (4)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (4)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (4)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (4)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (4)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (4)/Sounds/Break Sound
+    /Environment/Doors/Door (4)/Sounds/Close Sound
+    /Environment/Doors/Door (4)/Sounds/Lock Sound
+    /Environment/Doors/Door (4)/Sounds/Open Sound
+    /Environment/Doors/Door (4)/Sounds/Shove Sound
+    /Environment/Doors/Door (4)/Sounds/Unlock Sound
     /Environment/Doors/Door (5)/Door Anim/Closed collision geo
     /Environment/Doors/Door (5)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (5)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (5)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (5)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (5)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (5)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (5)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (5)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (5)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (5)/Sounds/Break Sound
+    /Environment/Doors/Door (5)/Sounds/Close Sound
+    /Environment/Doors/Door (5)/Sounds/Lock Sound
+    /Environment/Doors/Door (5)/Sounds/Open Sound
+    /Environment/Doors/Door (5)/Sounds/Shove Sound
+    /Environment/Doors/Door (5)/Sounds/Unlock Sound
     /Environment/Doors/Door (6)/Door Anim/Closed collision geo
     /Environment/Doors/Door (6)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (6)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (6)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (6)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (6)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (6)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (6)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (6)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (6)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (6)/Sounds/Break Sound
+    /Environment/Doors/Door (6)/Sounds/Close Sound
+    /Environment/Doors/Door (6)/Sounds/Lock Sound
+    /Environment/Doors/Door (6)/Sounds/Open Sound
+    /Environment/Doors/Door (6)/Sounds/Shove Sound
+    /Environment/Doors/Door (6)/Sounds/Unlock Sound
     /Environment/Doors/Door (7)/Door Anim/Closed collision geo
     /Environment/Doors/Door (7)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (7)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (7)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (7)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (7)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (7)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (7)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (7)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (7)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (7)/Sounds/Break Sound
+    /Environment/Doors/Door (7)/Sounds/Close Sound
+    /Environment/Doors/Door (7)/Sounds/Lock Sound
+    /Environment/Doors/Door (7)/Sounds/Open Sound
+    /Environment/Doors/Door (7)/Sounds/Shove Sound
+    /Environment/Doors/Door (7)/Sounds/Unlock Sound
     /Environment/Doors/Door (8)/Door Anim/Closed collision geo
     /Environment/Doors/Door (8)/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door (8)/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door (8)/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door (8)/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door (8)/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door (8)/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door (8)/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door (8)/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door (8)/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door (8)/Sounds/Break Sound
+    /Environment/Doors/Door (8)/Sounds/Close Sound
+    /Environment/Doors/Door (8)/Sounds/Lock Sound
+    /Environment/Doors/Door (8)/Sounds/Open Sound
+    /Environment/Doors/Door (8)/Sounds/Shove Sound
+    /Environment/Doors/Door (8)/Sounds/Unlock Sound
     /Environment/Doors/Door/Door Anim/Closed collision geo
     /Environment/Doors/Door/Door Anim/Hinge/door bolt geo 1_day/door bolt geo 1_night
     /Environment/Doors/Door/Door Anim/Hinge/door bolt geo 2_day/door bolt geo 2_night
     /Environment/Doors/Door/Door Anim/Hinge/door geo_day/door geo_night
+    /Environment/Doors/Door/Door Anim/Hinge/Interact close
+    /Environment/Doors/Door/Door Anim/Hinge/Interact lock
+    /Environment/Doors/Door/Door Anim/Hinge/Interact open
+    /Environment/Doors/Door/Door Anim/Hinge/Interact shove
+    /Environment/Doors/Door/Door Anim/Hinge/Open collision geo
     /Environment/Doors/Door/Door Anim/threshold geo_day/threshold geo_night
+    /Environment/Doors/Door/Sounds/Break Sound
+    /Environment/Doors/Door/Sounds/Close Sound
+    /Environment/Doors/Door/Sounds/Lock Sound
+    /Environment/Doors/Door/Sounds/Open Sound
+    /Environment/Doors/Door/Sounds/Shove Sound
+    /Environment/Doors/Door/Sounds/Unlock Sound
     /Environment/Doors/Threshold (1)/Threshold_day/Threshold_night
     /Environment/Doors/Threshold (2)/Threshold_day/Threshold_night
     /Environment/Doors/Threshold/Threshold_day/Threshold_night
@@ -604,15 +959,23 @@
     /Environment/Exterior/treeline
     /Environment/Garage/Car/Car Door (backleft)/Hinge/door geo_day/door geo_night
     /Environment/Garage/Car/Car Door (backleft)/Hinge/Door sound
+    /Environment/Garage/Car/Car Door (backleft)/Hinge/interact close
+    /Environment/Garage/Car/Car Door (backleft)/Hinge/interact open
     /Environment/Garage/Car/Car Door (backleft)/Hinge/playerclip
     /Environment/Garage/Car/Car Door (backright)/Hinge/door geo_day/door geo_night
     /Environment/Garage/Car/Car Door (backright)/Hinge/Door sound
+    /Environment/Garage/Car/Car Door (backright)/Hinge/interact close
+    /Environment/Garage/Car/Car Door (backright)/Hinge/interact open
     /Environment/Garage/Car/Car Door (backright)/Hinge/playerclip
     /Environment/Garage/Car/Car Door (driver)/Hinge/door geo_day/door geo_night
     /Environment/Garage/Car/Car Door (driver)/Hinge/Door sound
+    /Environment/Garage/Car/Car Door (driver)/Hinge/interact close
+    /Environment/Garage/Car/Car Door (driver)/Hinge/interact open
     /Environment/Garage/Car/Car Door (driver)/Hinge/playerclip
     /Environment/Garage/Car/Car Door (passenger)/Hinge/door geo_day/door geo_night
     /Environment/Garage/Car/Car Door (passenger)/Hinge/Door sound
+    /Environment/Garage/Car/Car Door (passenger)/Hinge/interact close
+    /Environment/Garage/Car/Car Door (passenger)/Hinge/interact open
     /Environment/Garage/Car/Car Door (passenger)/Hinge/playerclip
     /Environment/Garage/Car/car geo_day/car geo_night
     /Environment/Garage/Car/car playerclip
@@ -625,17 +988,34 @@
     /Environment/Garage/Car/Clue Location car (6)
     /Environment/Garage/Car/Clue Location car (7)
     /Environment/Garage/Car/Clue Location car (8)
+    /Environment/Garage/car_day backup/car_night
     /Environment/Garage/crate stack a_day/crate stack a_night
     /Environment/Garage/crate stack b_day/crate stack b_night
     /Environment/Garage/crate stack c_day/crate stack c_night
     /Environment/Garage/Drawers Table 1/geo_day/geo_night
+    /Environment/Garage/Drawers Table 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Garage/Drawers Table 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Garage/Drawers Table 1/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Garage/Drawers Table 1/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Garage/Drawers Table 1/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Garage/Drawers Table 1/Table Drawer (0)/Drawer sound
+    /Environment/Garage/Drawers Table 1/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Garage/Drawers Table 1/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Garage/Drawers Table 1/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Garage/Drawers Table 1/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Garage/Drawers Table 1/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Garage/Drawers Table 1/Table Drawer (1)/Drawer sound
     /Environment/Garage/Drawers Table 2 /geo_day/geo_night
+    /Environment/Garage/Drawers Table 2 /Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Garage/Drawers Table 2 /Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Garage/Drawers Table 2 /Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Garage/Drawers Table 2 /Table Drawer (0)/Drawer motion/Interact open
     /Environment/Garage/Drawers Table 2 /Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Garage/Drawers Table 2 /Table Drawer (0)/Drawer sound
+    /Environment/Garage/Drawers Table 2 /Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Garage/Drawers Table 2 /Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Garage/Drawers Table 2 /Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Garage/Drawers Table 2 /Table Drawer (1)/Drawer motion/Interact open
     /Environment/Garage/Drawers Table 2 /Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Garage/Drawers Table 2 /Table Drawer (1)/Drawer sound
     /Environment/Garage/Extra clues/Clue Location extra (0)
@@ -677,13 +1057,29 @@
     /Environment/Hall/Dining Chair Blue/chair geo_day/chair geo_night
     /Environment/Hall/Dining Chair Blue/chair geo_day/chair geo_night
     /Environment/Hall/Drawers Table 1/geo_day/geo_night
+    /Environment/Hall/Drawers Table 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Hall/Drawers Table 1/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Hall/Drawers Table 1/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Hall/Drawers Table 1/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Hall/Drawers Table 1/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Hall/Drawers Table 1/Table Drawer (0)/Drawer sound
+    /Environment/Hall/Drawers Table 1/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Hall/Drawers Table 1/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Hall/Drawers Table 1/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Hall/Drawers Table 1/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Hall/Drawers Table 1/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Hall/Drawers Table 1/Table Drawer (1)/Drawer sound
     /Environment/Hall/Drawers Table 2/geo_day/geo_night
+    /Environment/Hall/Drawers Table 2/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Hall/Drawers Table 2/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Hall/Drawers Table 2/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Hall/Drawers Table 2/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Hall/Drawers Table 2/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Hall/Drawers Table 2/Table Drawer (0)/Drawer sound
+    /Environment/Hall/Drawers Table 2/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Hall/Drawers Table 2/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Hall/Drawers Table 2/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Hall/Drawers Table 2/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Hall/Drawers Table 2/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Hall/Drawers Table 2/Table Drawer (1)/Drawer sound
     /Environment/Hall/Grandfather Clock_day/clock geo_day/clock geo_night
@@ -715,8 +1111,16 @@
     /Environment/Hall/Window/Window geo_day/Window geo_night
     /Environment/Hallways/Dining Chair Blue/chair geo_day/chair geo_night
     /Environment/Hallways/Drawers Tabl/geo_day/geo_night
+    /Environment/Hallways/Drawers Tabl/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Hallways/Drawers Tabl/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Hallways/Drawers Tabl/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Hallways/Drawers Tabl/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Hallways/Drawers Tabl/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Hallways/Drawers Tabl/Table Drawer (0)/Drawer sound
+    /Environment/Hallways/Drawers Tabl/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Hallways/Drawers Tabl/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Hallways/Drawers Tabl/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Hallways/Drawers Tabl/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Hallways/Drawers Tabl/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Hallways/Drawers Tabl/Table Drawer (1)/Drawer sound
     /Environment/Hallways/east hallway_day/east hallway_night
@@ -766,31 +1170,58 @@
     /Environment/Kitchen/clutter_day/clutter_night
     /Environment/Kitchen/clutter_day/clutter_night
     /Environment/Kitchen/clutter_day/clutter_night
+    /Environment/Kitchen/Counter 1/Counter Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Kitchen/Counter 1/Counter Door/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Kitchen/Counter 1/Counter Door/Door contents spawn/Clue Location (Door) (2)
     /Environment/Kitchen/Counter 1/Counter Door/Door motion R/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Counter 1/Counter Door/Door motion R/Interact close
     /Environment/Kitchen/Counter 1/Counter Door/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Counter 1/Counter Door/Door motion/Interact close
     /Environment/Kitchen/Counter 1/Counter Door/Door motion/Interact open/Interact geo 2
     /Environment/Kitchen/Counter 1/Counter Door/Door sound
     /Environment/Kitchen/Counter 1/geo_day/geo_night
+    /Environment/Kitchen/Counter 2/Counter Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Kitchen/Counter 2/Counter Door/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Kitchen/Counter 2/Counter Door/Door contents spawn/Clue Location (Door) (2)
     /Environment/Kitchen/Counter 2/Counter Door/Door motion R/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Counter 2/Counter Door/Door motion R/Interact close
     /Environment/Kitchen/Counter 2/Counter Door/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Counter 2/Counter Door/Door motion/Interact close
     /Environment/Kitchen/Counter 2/Counter Door/Door motion/Interact open/Interact geo 2
     /Environment/Kitchen/Counter 2/Counter Door/Door sound
     /Environment/Kitchen/Counter 2/geo_day/geo_night
+    /Environment/Kitchen/Counter 3/Counter Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Kitchen/Counter 3/Counter Door/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Kitchen/Counter 3/Counter Door/Door contents spawn/Clue Location (Door) (2)
     /Environment/Kitchen/Counter 3/Counter Door/Door motion R/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Counter 3/Counter Door/Door motion R/Interact close
     /Environment/Kitchen/Counter 3/Counter Door/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Counter 3/Counter Door/Door motion/Interact close
     /Environment/Kitchen/Counter 3/Counter Door/Door motion/Interact open/Interact geo 2
     /Environment/Kitchen/Counter 3/Counter Door/Door sound
     /Environment/Kitchen/Counter 3/geo_day/geo_night
     /Environment/Kitchen/Counter blank_day/Counter blank_night
     /Environment/Kitchen/Counter corner_day/Counter corner_night
     /Environment/Kitchen/Counter sink_day/Counter sink_night
+    /Environment/Kitchen/Cupboard 1/Cupboard Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Kitchen/Cupboard 1/Cupboard Door/Door contents spawn/Clue Location (Door) (2)
     /Environment/Kitchen/Cupboard 1/Cupboard Door/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Cupboard 1/Cupboard Door/Door motion/Interact close
+    /Environment/Kitchen/Cupboard 1/Cupboard Door/Door motion/Interact open
     /Environment/Kitchen/Cupboard 1/Cupboard Door/Door sound
     /Environment/Kitchen/Cupboard 1/geo_day/geo_night
+    /Environment/Kitchen/Cupboard 2/Cupboard Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Kitchen/Cupboard 2/Cupboard Door/Door contents spawn/Clue Location (Door) (2)
     /Environment/Kitchen/Cupboard 2/Cupboard Door/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Cupboard 2/Cupboard Door/Door motion/Interact close
+    /Environment/Kitchen/Cupboard 2/Cupboard Door/Door motion/Interact open
     /Environment/Kitchen/Cupboard 2/Cupboard Door/Door sound
     /Environment/Kitchen/Cupboard 2/geo_day/geo_night
+    /Environment/Kitchen/Cupboard 3/Cupboard Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Kitchen/Cupboard 3/Cupboard Door/Door contents spawn/Clue Location (Door) (2)
     /Environment/Kitchen/Cupboard 3/Cupboard Door/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Cupboard 3/Cupboard Door/Door motion/Interact close
+    /Environment/Kitchen/Cupboard 3/Cupboard Door/Door motion/Interact open
     /Environment/Kitchen/Cupboard 3/Cupboard Door/Door sound
     /Environment/Kitchen/Cupboard 3/geo_day/geo_night
     /Environment/Kitchen/Cupboard blank_day/Cupboard blank_night
@@ -808,13 +1239,24 @@
     /Environment/Kitchen/Extra clues/Clue Location extra (5)
     /Environment/Kitchen/Extra clues/Clue Location extra (6)
     /Environment/Kitchen/Extra clues/Clue Location extra (7)
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (0)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (0)/Door motion/Interact close
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (0)/Door motion/Interact open
     /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (0)/Door sound
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (1)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (1)/Door motion/Interact close
+    /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (1)/Door motion/Interact open
     /Environment/Kitchen/Kitchen Cabinet/Cabinet Door (1)/Door sound
     /Environment/Kitchen/Kitchen Cabinet/geo_day/geo_night
     /Environment/Kitchen/kitchen_day/kitchen_night
     /Environment/Kitchen/Medium table/geo_day/geo_night
+    /Environment/Kitchen/Meme painting/Amogus/amogusgeo
     /Environment/Kitchen/Plant/Plant_day/Plant_night
     /Environment/Kitchen/pots_day/pots_night
     /Environment/Kitchen/Round Table B/Round Table B_day/Round Table B_night
@@ -839,8 +1281,16 @@
     /Environment/Library/Dining Chair/chair geo_day/chair geo_night
     /Environment/Library/Dining Chair/chair geo_day/chair geo_night
     /Environment/Library/Drawers Table/geo_day/geo_night
+    /Environment/Library/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Library/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Library/Drawers Table/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Library/Drawers Table/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Library/Drawers Table/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Library/Drawers Table/Table Drawer (0)/Drawer sound
+    /Environment/Library/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Library/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Library/Drawers Table/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Library/Drawers Table/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Library/Drawers Table/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Library/Drawers Table/Table Drawer (1)/Drawer sound
     /Environment/Library/Extra clues/Clue Location extra (0)
@@ -915,69 +1365,234 @@
     /Environment/Lobby (day only)/lobby readyroom
     /Environment/Lobby (day only)/lobby spawnroom
     /Environment/Lobby (day only)/Pedestals/Pedestal (1)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (1)/Pedestal display/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (10)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (10)/Pedestal display (9)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (11)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (11)/Pedestal display (10)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (12)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (12)/Pedestal display (11)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (2)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (2)/Pedestal display (1)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (3)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (3)/Pedestal display (2)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (4)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (4)/Pedestal display (3)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (5)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (5)/Pedestal display (4)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (6)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (6)/Pedestal display (5)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (7)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (7)/Pedestal display (6)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (8)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (8)/Pedestal display (7)/AvatarPedestal(Clone)/PlatformIconFront/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (9)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Icon_InvalidPortalFront (1)
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/_InvalidAvatar_Graphics/Mesh_InvalidPortal_Ring
     /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/ForwardDirection
     /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/Image
     /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconBack/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconBack/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconBack/Quest
     /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconFront/Any
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileAny
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobileMobile
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront/MobilePC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconFront/PC
+    /Environment/Lobby (day only)/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clone)/PlatformIconFront/Quest
+    /Environment/Lobby (day only)/Pedestals/Pedestal Santa (13)/pedestal contents
+    /Environment/Lobby (day only)/Pedestals/Pedestal Santa (13)/Pedestal display
     /Environment/Lobby (day only)/Plant/Plant
     /Environment/Lobby (day only)/Plant/Plant
     /Environment/Lobby (day only)/Plaque
     /Environment/Lobby (day only)/Plaque
+    /Environment/Lobby (day only)/Portals/Catch That Phrase
+    /Environment/Lobby (day only)/Portals/Kitchen Cooks
+    /Environment/Lobby (day only)/Portals/Marble Puzzles
+    /Environment/Lobby (day only)/Portals/Murder 3
+    /Environment/Lobby (day only)/Portals/Spirit Speak
+    /Environment/Lobby (day only)/Portals/Spy Check
+    /Environment/Lobby (day only)/Portals/ZoomBox
     /Environment/Lobby (day only)/Sconce (3)/Sconce geo (1)
     /Environment/Lobby (day only)/Threshold wide/Threshold geo
     /Environment/Lobby (day only)/Threshold/Threshold geo
@@ -1004,9 +1619,86 @@
     /Environment/Lobby (day only)/Window Short/Window geo
     /Environment/Lobby (day only)/Window Short/Window geo
     /Environment/Lobby (day only)/Window Short/Window geo
+    /Environment/Lobby (daynight)/Ceiling lamp_day/Ceiling lamp_night
+    /Environment/Lobby (daynight)/Ceiling lamp_day/Ceiling lamp_night
+    /Environment/Lobby (daynight)/Drawers Table static_day/Drawers Table static_night
+    /Environment/Lobby (daynight)/Drawers Table static_day/Drawers Table static_night
+    /Environment/Lobby (daynight)/Drawers Table static_day/table drawer geo_day/table drawer geo_night
+    /Environment/Lobby (daynight)/Drawers Table static_day/table drawer geo_day/table drawer geo_night
+    /Environment/Lobby (daynight)/Drawers Table static_day/table drawer geo_day/table drawer geo_night
+    /Environment/Lobby (daynight)/Drawers Table static_day/table drawer geo_day/table drawer geo_night
+    /Environment/Lobby (daynight)/lobby hallway east cap_day/lobby hallway east cap_night
+    /Environment/Lobby (daynight)/lobby hallway east_day/lobby hallway east_night
+    /Environment/Lobby (daynight)/lobby hallway west_day/lobby hallway west_night
+    /Environment/Lobby (daynight)/lobby readyroom_day/lobby readyroom_night
+    /Environment/Lobby (daynight)/lobby spawnroom_day/lobby spawnroom_night
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (1)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (1)/Pedestal display
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (10)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (10)/Pedestal display (9)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (11)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (11)/Pedestal display (10)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (12)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (12)/Pedestal display (11)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (2)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (2)/Pedestal display (1)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (3)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (3)/Pedestal display (2)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (4)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (4)/Pedestal display (3)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (5)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (5)/Pedestal display (4)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (6)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (6)/Pedestal display (5)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (7)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (7)/Pedestal display (6)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (8)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (8)/Pedestal display (7)
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (9)/pedestal contents
+    /Environment/Lobby (daynight)/Pedestals/Pedestal (9)/Pedestal display (8)
+    /Environment/Lobby (daynight)/Plant/Plant_day/Plant_night
+    /Environment/Lobby (daynight)/Plant/Plant_day/Plant_night
+    /Environment/Lobby (daynight)/Plaque_day/Plaque_night
+    /Environment/Lobby (daynight)/Plaque_day/Plaque_night
+    /Environment/Lobby (daynight)/Portals/Among Us
+    /Environment/Lobby (daynight)/Portals/Catch That Phrase
+    /Environment/Lobby (daynight)/Portals/Kitchen Cooks
+    /Environment/Lobby (daynight)/Portals/Marble Puzzles
+    /Environment/Lobby (daynight)/Portals/Murder 2
+    /Environment/Lobby (daynight)/Portals/Spirit Speak
+    /Environment/Lobby (daynight)/Portals/ZoomBox
+    /Environment/Lobby (daynight)/Threshold wide/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Threshold/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Threshold/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Threshold/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Threshold/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Threshold/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Threshold/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Threshold/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Threshold/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Threshold/Threshold_day/Threshold_night
+    /Environment/Lobby (daynight)/Window Short/curtain geo_day/curtain geo_night
+    /Environment/Lobby (daynight)/Window Short/curtain geo_day/curtain geo_night
+    /Environment/Lobby (daynight)/Window Short/curtain geo_day/curtain geo_night
+    /Environment/Lobby (daynight)/Window Short/curtain geo_day/curtain geo_night
+    /Environment/Lobby (daynight)/Window Short/curtain geo_day/curtain geo_night
+    /Environment/Lobby (daynight)/Window Short/shutters_day/shutters_night
+    /Environment/Lobby (daynight)/Window Short/shutters_day/shutters_night
+    /Environment/Lobby (daynight)/Window Short/shutters_day/shutters_night
+    /Environment/Lobby (daynight)/Window Short/shutters_day/shutters_night
+    /Environment/Lobby (daynight)/Window Short/shutters_day/shutters_night
+    /Environment/Lobby (daynight)/Window Short/Window geo_day/Window geo_night
+    /Environment/Lobby (daynight)/Window Short/Window geo_day/Window geo_night
+    /Environment/Lobby (daynight)/Window Short/Window geo_day/Window geo_night
+    /Environment/Lobby (daynight)/Window Short/Window geo_day/Window geo_night
+    /Environment/Lobby (daynight)/Window Short/Window geo_day/Window geo_night
     /Environment/Lounge/Armchair/geo_day/geo_night
     /Environment/Lounge/Armchair/geo_day/geo_night
     /Environment/Lounge/Bookshelf/Bookshelf Drawer/Drawer motion/cabinet drawer geo_day/cabinet drawer geo_night
+    /Environment/Lounge/Bookshelf/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Lounge/Bookshelf/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Lounge/Bookshelf/Bookshelf Drawer/Drawer motion/Interact close
+    /Environment/Lounge/Bookshelf/Bookshelf Drawer/Drawer motion/Interact open
     /Environment/Lounge/Bookshelf/Bookshelf Drawer/Drawer sound
     /Environment/Lounge/Bookshelf/Clue Location (bookshelf) (0)
     /Environment/Lounge/Bookshelf/Clue Location (bookshelf) (1)
@@ -1014,8 +1706,16 @@
     /Environment/Lounge/Coffee Table_day/Coffee Table_night
     /Environment/Lounge/Couch/geo_day/geo_night
     /Environment/Lounge/Drawers Table/geo_day/geo_night
+    /Environment/Lounge/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Lounge/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Lounge/Drawers Table/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Lounge/Drawers Table/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Lounge/Drawers Table/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Lounge/Drawers Table/Table Drawer (0)/Drawer sound
+    /Environment/Lounge/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Lounge/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Lounge/Drawers Table/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Lounge/Drawers Table/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Lounge/Drawers Table/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Lounge/Drawers Table/Table Drawer (1)/Drawer sound
     /Environment/Lounge/Extra clues/Clue Location extra (0)
@@ -1047,8 +1747,12 @@
     /Environment/Lounge/Grandfather Clock_day/Clock sound
     /Environment/Lounge/Grandfather Clock_day/pendulum_day/pendulum_night
     /Environment/Lounge/lounge_day/lounge_night
+    /Environment/Lounge/Loveseat/auto stepladder
+    /Environment/Lounge/Loveseat/auto stepladder
     /Environment/Lounge/Loveseat/geo_day/geo_night
     /Environment/Lounge/Loveseat/geo_day/geo_night
+    /Environment/Lounge/Loveseat/playerclip
+    /Environment/Lounge/Loveseat/playerclip
     /Environment/Lounge/Medium table (1)/geo_day/geo_night
     /Environment/Lounge/Painting/art_day/art_night
     /Environment/Lounge/Painting/art_day/art_night
@@ -1118,22 +1822,43 @@
     /Environment/Occlusion/Occlusion "Tunnel" Bug Fix
     /Environment/Occlusion/Occlusion Area Game
     /Environment/Occlusion/Occlusion Area Lobby
+    /Environment/Sounds/Cellar ambience
+    /Environment/Sounds/Indoor ambience
+    /Environment/Sounds/Outdoor ambience
     /Environment/Study/Bookshelf 1/Bookshelf Drawer/Drawer motion/cabinet drawer geo_day/cabinet drawer geo_night
+    /Environment/Study/Bookshelf 1/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Study/Bookshelf 1/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Study/Bookshelf 1/Bookshelf Drawer/Drawer motion/Interact close
+    /Environment/Study/Bookshelf 1/Bookshelf Drawer/Drawer motion/Interact open
     /Environment/Study/Bookshelf 1/Bookshelf Drawer/Drawer sound
     /Environment/Study/Bookshelf 1/Clue Location (bookshelf) (0)
     /Environment/Study/Bookshelf 1/Clue Location (bookshelf) (1)
     /Environment/Study/Bookshelf 1/geo_day/geo_night
     /Environment/Study/Bookshelf 2/Bookshelf Drawer/Drawer motion/cabinet drawer geo_day/cabinet drawer geo_night
+    /Environment/Study/Bookshelf 2/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Study/Bookshelf 2/Bookshelf Drawer/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Study/Bookshelf 2/Bookshelf Drawer/Drawer motion/Interact close
+    /Environment/Study/Bookshelf 2/Bookshelf Drawer/Drawer motion/Interact open
     /Environment/Study/Bookshelf 2/Bookshelf Drawer/Drawer sound
     /Environment/Study/Bookshelf 2/Clue Location (bookshelf) (0)
     /Environment/Study/Bookshelf 2/Clue Location (bookshelf) (1)
     /Environment/Study/Bookshelf 2/geo_day/geo_night
     /Environment/Study/bugfix playerclip
     /Environment/Study/Ceiling lamp_day/Ceiling lamp_night
+    /Environment/Study/Counter/Counter Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Study/Counter/Counter Door/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Study/Counter/Counter Door/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Study/Counter/Counter Door/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Study/Counter/Counter Door/Door contents spawn/Clue Location (Door) (2)
+    /Environment/Study/Counter/Counter Door/Door contents spawn/Clue Location (Door) (2)
     /Environment/Study/Counter/Counter Door/Door motion R/cabinet door geo_day/cabinet door geo_night
     /Environment/Study/Counter/Counter Door/Door motion R/cabinet door geo_day/cabinet door geo_night
+    /Environment/Study/Counter/Counter Door/Door motion R/Interact close
+    /Environment/Study/Counter/Counter Door/Door motion R/Interact close
     /Environment/Study/Counter/Counter Door/Door motion/cabinet door geo_day/cabinet door geo_night
     /Environment/Study/Counter/Counter Door/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Study/Counter/Counter Door/Door motion/Interact close
+    /Environment/Study/Counter/Counter Door/Door motion/Interact close
     /Environment/Study/Counter/Counter Door/Door motion/Interact open/Interact geo 2
     /Environment/Study/Counter/Counter Door/Door motion/Interact open/Interact geo 2
     /Environment/Study/Counter/Counter Door/Door sound
@@ -1141,11 +1866,23 @@
     /Environment/Study/Counter/geo_day/geo_night
     /Environment/Study/Counter/geo_day/geo_night
     /Environment/Study/Desk/geo_day/geo_night
+    /Environment/Study/Desk/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Study/Desk/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Study/Desk/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Study/Desk/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Study/Desk/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Study/Desk/Table Drawer (0)/Drawer sound
     /Environment/Study/Drawers Table/geo_day/geo_night
+    /Environment/Study/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Study/Drawers Table/Table Drawer (0)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Study/Drawers Table/Table Drawer (0)/Drawer motion/Interact close
+    /Environment/Study/Drawers Table/Table Drawer (0)/Drawer motion/Interact open
     /Environment/Study/Drawers Table/Table Drawer (0)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Study/Drawers Table/Table Drawer (0)/Drawer sound
+    /Environment/Study/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer)
+    /Environment/Study/Drawers Table/Table Drawer (1)/Drawer motion/Drawer contents spawn/Clue Location (Drawer) (1)
+    /Environment/Study/Drawers Table/Table Drawer (1)/Drawer motion/Interact close
+    /Environment/Study/Drawers Table/Table Drawer (1)/Drawer motion/Interact open
     /Environment/Study/Drawers Table/Table Drawer (1)/Drawer motion/table drawer geo_day/table drawer geo_night
     /Environment/Study/Drawers Table/Table Drawer (1)/Drawer sound
     /Environment/Study/Exec Chair_day/Exec Chair_night
@@ -1169,9 +1906,19 @@
     /Environment/Study/Extra clues/Clue Location extra (9)
     /Environment/Study/Fireplace/fireplace geo_day/fireplace geo_night
     /Environment/Study/Floor Lamp/geo_day/geo_night
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (0)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Study/Kitchen Cabinet/Cabinet Door (0)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (0)/Door motion/Interact close
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (0)/Door motion/Interact open
     /Environment/Study/Kitchen Cabinet/Cabinet Door (0)/Door sound
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (0)
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (1)
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (1)/Door contents spawn/Clue Location (Door) (2)
     /Environment/Study/Kitchen Cabinet/Cabinet Door (1)/Door motion/cabinet door geo_day/cabinet door geo_night
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (1)/Door motion/Interact close
+    /Environment/Study/Kitchen Cabinet/Cabinet Door (1)/Door motion/Interact open
     /Environment/Study/Kitchen Cabinet/Cabinet Door (1)/Door sound
     /Environment/Study/Kitchen Cabinet/geo_day/geo_night
     /Environment/Study/Medium table/geo_day/geo_night
@@ -1189,6 +1936,7 @@
     /Environment/Study/study_day/study_night
     /Environment/Study/Table Lamp/geo_day/geo_night
     /Environment/Study/typewriter_day/typewriter_night
+    /ErrorHandler
     /Fix for weird avatar3 jump/player clip box
     /Fix for weird avatar3 jump/player clip box (1)
     /Fix for weird avatar3 jump/player clip box (2)
@@ -1196,6 +1944,16 @@
     /Fix for weird avatar3 jump/player lcip wall (1)
     /Fix for weird avatar3 jump/player lcip wall (2)
     /Fix for weird avatar3 jump/player lcip wall (3)
+    /Game Logic/Blood Decals/Blood Decal (1)
+    /Game Logic/Blood Decals/Blood Decal (10)
+    /Game Logic/Blood Decals/Blood Decal (2)
+    /Game Logic/Blood Decals/Blood Decal (3)
+    /Game Logic/Blood Decals/Blood Decal (4)
+    /Game Logic/Blood Decals/Blood Decal (5)
+    /Game Logic/Blood Decals/Blood Decal (6)
+    /Game Logic/Blood Decals/Blood Decal (7)
+    /Game Logic/Blood Decals/Blood Decal (8)
+    /Game Logic/Blood Decals/Blood Decal (9)
     /Game Logic/Bystander Spawns/Bystander Spawn (0)
     /Game Logic/Bystander Spawns/Bystander Spawn (1)
     /Game Logic/Bystander Spawns/Bystander Spawn (10)
@@ -1212,6 +1970,11 @@
     /Game Logic/Bystander Spawns/Bystander Spawn (7)
     /Game Logic/Bystander Spawns/Bystander Spawn (8)
     /Game Logic/Bystander Spawns/Bystander Spawn (9)
+    /Game Logic/Clues (xmas)/Clue (present) (1)/geo/Clue Sparkle Particles
+    /Game Logic/Clues (xmas)/Clue (present) (2)/geo/Clue Sparkle Particles
+    /Game Logic/Clues (xmas)/Clue (present) (3)/geo/Clue Sparkle Particles
+    /Game Logic/Clues (xmas)/Clue (present) (4)/geo/Clue Sparkle Particles
+    /Game Logic/Clues (xmas)/Clue (present) (5)/geo/Clue Sparkle Particles
     /Game Logic/Clues/Clue (locket)/geo/Clue Sparkle Particles
     /Game Logic/Clues/Clue (notebook)/geo/Clue Sparkle Particles
     /Game Logic/Clues/Clue (photograph)/geo/Clue Sparkle Particles
@@ -1221,18 +1984,155 @@
     /Game Logic/Game Area Bounds
     /Game Logic/Game Canvas/Background Panel Border
     /Game Logic/Game Canvas/Background Panel Fill
+    /Game Logic/Game Canvas/Countdown/Countdown Time Text
+    /Game Logic/Game Canvas/Countdown/Text
+    /Game Logic/Game Canvas/Error panel/Foreground/Discord label
+    /Game Logic/Game Canvas/Error panel/Foreground/Discord link/Discord bug reports QR code
+    /Game Logic/Game Canvas/Error panel/Foreground/Discord link/Discord Icon
+    /Game Logic/Game Canvas/Error panel/Foreground/Error code background/Error code label
+    /Game Logic/Game Canvas/Error panel/Foreground/Error code background/Error code text
+    /Game Logic/Game Canvas/Error panel/Foreground/Error Footer
+    /Game Logic/Game Canvas/Error panel/Foreground/Error Panel Border
+    /Game Logic/Game Canvas/Error panel/Foreground/Error Subtitle
+    /Game Logic/Game Canvas/Error panel/Foreground/Error Title
     /Game Logic/Game Canvas/EventSystem
     /Game Logic/Game Canvas/Game In Progress/Player List/Border
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (0)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (1)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (10)/Player Name Text
     /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (11)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (12)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (13)/Player Name Text
     /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (14)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (15)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (16)/Player Name Text
     /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (17)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (18)/Player Name Text
     /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (19)/Player Name Text
     /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (2)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (20)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (21)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (22)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (23)/Player Name Text
     /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (3)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (4)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (5)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (6)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (7)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (8)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Player List/Player List Group/Player Entry (9)/Player Name Text
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Abort Button/Button border
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Abort Button/Text
     /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Disabled/Enable Button/Border
     /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Disabled/Enable Button/Text
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Border
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Disable Button/Button border
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Disable Button/Text
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Home Button/Button border
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Home Button/Text
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (0)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (1)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (10)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (11)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (12)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (13)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (14)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (15)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (16)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (17)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (18)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (19)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (2)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (20)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (21)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (22)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (3)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (4)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (5)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (6)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (7)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (8)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Items/ItemTracker (9)
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (0)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (1)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (10)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (11)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (12)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (13)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (14)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (15)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (16)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (17)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (18)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (19)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (2)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (20)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (21)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (22)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (23)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (3)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (4)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (5)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (6)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (7)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (8)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Mask/Map Image/Spectate Map Players/PlayerTracker (9)/Arrow
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Next Button/Button border
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Next Button/Text
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Player label/Border
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Player label/Spectating label
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Player label/Text
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Prev Button/Button border
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Prev Button/Text
+    /Game Logic/Game Canvas/Game In Progress/Spectate Screen/Spectate Enabled/Showdown timer text/Text
     /Game Logic/Game Canvas/Game In Progress/Text
+    /Game Logic/Game Canvas/Loading/Background Panel Border
+    /Game Logic/Game Canvas/Loading/Loading text
+    /Game Logic/Game Canvas/Postgame/Box fill/Box border
+    /Game Logic/Game Canvas/Postgame/Box fill/Fill Mask/Image
+    /Game Logic/Game Canvas/Postgame/Box fill/Winner Text
+    /Game Logic/Game Canvas/Postgame/Fill/Border
+    /Game Logic/Game Canvas/Postgame/Fill/Text
+    /Game Logic/Game Canvas/Postgame/Murderer Name
+    /Game Logic/Game Canvas/Postgame/Next Round Time
+    /Game Logic/Game Canvas/Postgame/Text (2)
+    /Game Logic/Game Canvas/Postgame/Text (3)
+    /Game Logic/Game Canvas/Pregame/Author Text
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Border
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Title bar/Image
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Title bar/Label
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Title bar/Master name
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Title bar/Text/Image
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (0)/Checkbox/Checkmark
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (0)/Label
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (0)/Sublabel
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (1)/Checkbox/Checkmark
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (1)/Label
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (1)/Sublabel
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (2)/Checkbox/Checkmark
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (2)/Label
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (2)/Sublabel
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (3)/Checkbox/Checkmark
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (3)/Label
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (3)/Sublabel
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (4)/Checkbox/Checkmark
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (4)/Label
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (4)/Sublabel
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (5)/Checkbox/Checkmark
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (5)/Label
+    /Game Logic/Game Canvas/Pregame/Game Modifiers/Mask/Toggle (5)/Sublabel
+    /Game Logic/Game Canvas/Pregame/Player Count reminder duos
+    /Game Logic/Game Canvas/Pregame/Player Count reminder normal
+    /Game Logic/Game Canvas/Pregame/Player Count Text
+    /Game Logic/Game Canvas/Pregame/Start Button Anybody/Start Button border
+    /Game Logic/Game Canvas/Pregame/Start Button Anybody/Start Button Label Anybody
+    /Game Logic/Game Canvas/Pregame/Start Button Master/Start Button border
+    /Game Logic/Game Canvas/Pregame/Start Button Master/Start Button Label Master
+    /Game Logic/Game Canvas/Pregame/Title Text
+    /Game Logic/Game Canvas/Pregame/Valentines Text
     /Game Logic/Game Canvas/Version Number
+    /Game Logic/Keyboard Interact
+    /Game Logic/LightSystem/nametag hider
     /Game Logic/Lobby Area Bounds
     /Game Logic/Lobby Spawns/Lobby Spawn (0)
     /Game Logic/Lobby Spawns/Lobby Spawn (1)
@@ -1273,6 +2173,7 @@
     /Game Logic/Options Canvas/Contents/Toggle (Music Cues)/Checkbox/Checkmark
     /Game Logic/Options Canvas/Contents/Toggle (Music Cues)/Label
     /Game Logic/Options Canvas/Contents/Toggle (Patron Flair)/Checkbox/Checkmark
+    /Game Logic/Options Canvas/Contents/Toggle (Patron Flair)/Label (Non patrons)
     /Game Logic/Options Canvas/Contents/Toggle (Patron Flair)/Label (Patrons)
     /Game Logic/Options Canvas/Contents/Toggle (Room Name Popups)/Checkbox/Checkmark
     /Game Logic/Options Canvas/Contents/Toggle (Room Name Popups)/Label
@@ -1280,6 +2181,198 @@
     /Game Logic/Options Canvas/Contents/Toggle (Snakephobia)/Label
     /Game Logic/Overhead Spectator Camera
     /Game Logic/PianoKeys (continuous)/piano key audio
+    /Game Logic/PianoKeys (single note)/piano key audio
+    /Game Logic/Player HUD/Blind HUD Anim/Canvas/Blackout (0)
+    /Game Logic/Player HUD/Blind HUD Anim/Canvas/Blackout (1)
+    /Game Logic/Player HUD/Blind HUD Anim/Canvas/Blackout (2)
+    /Game Logic/Player HUD/Blind HUD Anim/Canvas/Blackout (3)
+    /Game Logic/Player HUD/Blind HUD Anim/Canvas/Blackout (4)
+    /Game Logic/Player HUD/Blind HUD Anim/Canvas/Blinded Image
+    /Game Logic/Player HUD/Blind HUD Anim/Canvas/Blinded Text
+    /Game Logic/Player HUD/Clue HUD Anim/Canvas/Counting/Clue count
+    /Game Logic/Player HUD/Clue HUD Anim/Canvas/Counting/Text
+    /Game Logic/Player HUD/Clue HUD Anim/Canvas/Notify/Background border
+    /Game Logic/Player HUD/Clue HUD Anim/Canvas/Notify/Background fill/Role Text
+    /Game Logic/Player HUD/Clue HUD Anim/Canvas/Unlock/Background border
+    /Game Logic/Player HUD/Clue HUD Anim/Canvas/Unlock/Background fill/Role Text
+    /Game Logic/Player HUD/Death HUD Anim/Canvas/Blackout (0)
+    /Game Logic/Player HUD/Death HUD Anim/Canvas/Blackout (1)
+    /Game Logic/Player HUD/Death HUD Anim/Canvas/Blackout (2)
+    /Game Logic/Player HUD/Death HUD Anim/Canvas/Blackout (3)
+    /Game Logic/Player HUD/Death HUD Anim/Canvas/Blackout (4)
+    /Game Logic/Player HUD/Death HUD Anim/Canvas/Death Image
+    /Game Logic/Player HUD/Death HUD Anim/Canvas/Death Text
+    /Game Logic/Player HUD/Duos HUD Anim/Canvas/Prompt Text
+    /Game Logic/Player HUD/Duos HUD Anim/Canvas/Role/Background border
+    /Game Logic/Player HUD/Duos HUD Anim/Canvas/Role/Background fill/Partner Text
+    /Game Logic/Player HUD/Error HUD/Error/Background fill/Background border
+    /Game Logic/Player HUD/Error HUD/Error/Background fill/Error Fill/Error Text
+    /Game Logic/Player HUD/Error HUD/Error/Background fill/ErrorReportURL
+    /Game Logic/Player HUD/Error HUD/Error/Background fill/Text
+    /Game Logic/Player HUD/Flashbang HUD Anim/Canvas/Blackout (0)
+    /Game Logic/Player HUD/Flashbang HUD Anim/Canvas/Blackout (1)
+    /Game Logic/Player HUD/Flashbang HUD Anim/Canvas/Blackout (2)
+    /Game Logic/Player HUD/Flashbang HUD Anim/Canvas/Blackout (3)
+    /Game Logic/Player HUD/Flashbang HUD Anim/Canvas/Blackout (4)
+    /Game Logic/Player HUD/Flashbang HUD Anim/Canvas/Blinded Image
+    /Game Logic/Player HUD/Flashbang HUD Anim/Canvas/Blinded Text
+    /Game Logic/Player HUD/Keyboard HUD Anim/Canvas/Primary/Image
+    /Game Logic/Player HUD/Keyboard HUD Anim/Canvas/Primary/Text
+    /Game Logic/Player HUD/Keyboard HUD Anim/Canvas/Secondary/Image
+    /Game Logic/Player HUD/Keyboard HUD Anim/Canvas/Secondary/Text
+    /Game Logic/Player HUD/Location HUD Anim/Canvas/Location Text
+    /Game Logic/Player HUD/Role HUD Anim/Canvas/Prompt Text
+    /Game Logic/Player HUD/Role HUD Anim/Canvas/Role/Background border
+    /Game Logic/Player HUD/Role HUD Anim/Canvas/Role/Background fill/Role Text
+    /Game Logic/Player HUD/Showdown HUD/Canvas/Showdown text/Showdown label
+    /Game Logic/Player HUD/Version HUD/Error/Background fill/Background border
+    /Game Logic/Player HUD/Version HUD/Error/Background fill/Error Fill/Version Text
+    /Game Logic/Player HUD/Version HUD/Error/Background fill/ErrorReportURL
+    /Game Logic/Player HUD/Version HUD/Error/Background fill/Text
+    /Game Logic/Player Nodes/Player Node (0)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (0)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (0)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (0)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (0)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (0)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (1)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (1)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (1)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (1)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (1)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (1)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (10)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (10)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (10)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (10)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (10)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (10)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (11)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (11)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (11)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (11)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (11)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (11)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (12)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (12)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (12)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (12)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (12)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (12)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (13)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (13)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (13)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (13)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (13)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (13)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (14)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (14)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (14)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (14)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (14)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (14)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (15)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (15)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (15)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (15)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (15)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (15)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (16)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (16)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (16)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (16)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (16)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (16)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (17)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (17)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (17)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (17)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (17)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (17)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (18)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (18)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (18)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (18)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (18)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (18)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (19)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (19)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (19)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (19)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (19)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (19)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (2)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (2)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (2)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (2)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (2)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (2)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (20)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (20)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (20)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (20)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (20)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (20)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (21)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (21)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (21)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (21)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (21)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (21)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (22)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (22)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (22)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (22)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (22)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (22)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (23)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (23)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (23)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (23)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (23)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (23)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (3)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (3)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (3)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (3)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (3)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (3)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (4)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (4)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (4)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (4)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (4)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (4)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (5)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (5)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (5)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (5)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (5)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (5)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (6)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (6)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (6)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (6)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (6)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (6)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (7)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (7)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (7)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (7)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (7)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (7)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (8)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (8)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (8)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (8)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (8)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (8)/Teammate indicator/Murderer/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (9)/Teammate indicator/Bystander/Background border
+    /Game Logic/Player Nodes/Player Node (9)/Teammate indicator/Bystander/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (9)/Teammate indicator/Detective/Background border
+    /Game Logic/Player Nodes/Player Node (9)/Teammate indicator/Detective/Background fill/Role Text
+    /Game Logic/Player Nodes/Player Node (9)/Teammate indicator/Murderer/Background border
+    /Game Logic/Player Nodes/Player Node (9)/Teammate indicator/Murderer/Background fill/Role Text
     /Game Logic/Player Spectator Camera
     /Game Logic/Poison Pickup/poison bottle geo/poison cork geo
     /Game Logic/Poison Pickup/poison get sound
@@ -1293,6 +2386,10 @@
     /Game Logic/Polaroids Unlock Camera/Collection area/RawImage (3)/Text
     /Game Logic/Polaroids Unlock Camera/Collection area/RawImage (4)/Text
     /Game Logic/Polaroids Unlock Camera/Collection area/RawImage (5)/Text
+    /Game Logic/Polaroids Unlock Camera/FlashCamera/Camera anim/Capture camera
+    /Game Logic/Polaroids Unlock Camera/FlashCamera/Camera anim/Flash flare
+    /Game Logic/Polaroids Unlock Camera/FlashCamera/Camera anim/Flash spotlight
+    /Game Logic/Polaroids Unlock Camera/FlashCamera/Camera anim/polaroid print/Canvas (photo)/RawImage
     /Game Logic/Polaroids Unlock Camera/FlashCamera/camera geo
     /Game Logic/Polaroids Unlock Camera/FlashCamera/camera ind green
     /Game Logic/Polaroids Unlock Camera/FlashCamera/camera ind red
@@ -1314,6 +2411,7 @@
     /Game Logic/Polaroids Unlock Camera/Polaroid pickup (5)/Canvas (photo)/RawImage
     /Game Logic/Polaroids Unlock Camera/Polaroid pickup (5)/Exact Gun
     /Game Logic/Polaroids Unlock Camera/Unlock point
+    /Game Logic/Reference Camera
     /Game Logic/Scattered Spawns/Scattered Spawn (0)
     /Game Logic/Scattered Spawns/Scattered Spawn (1)
     /Game Logic/Scattered Spawns/Scattered Spawn (10)
@@ -1348,6 +2446,10 @@
     /Game Logic/Scattered Spawns/Scattered Spawn (8)
     /Game Logic/Scattered Spawns/Scattered Spawn (9)
     /Game Logic/Scene Descriptor
+    /Game Logic/Sheet Music/Sheet music sparkles
+    /Game Logic/Showdown Waypoint/Showdown Canvas/Image (0)
+    /Game Logic/Showdown Waypoint/Showdown Canvas/Image (1)
+    /Game Logic/Showdown Waypoint/waypoint quad
     /Game Logic/Signs/Credits Canvas (1)/Author portait border/Author name
     /Game Logic/Signs/Credits Canvas (1)/Author portait border/Author portait image
     /Game Logic/Signs/Credits Canvas (1)/Author portait border/Author pretext
@@ -1358,6 +2460,25 @@
     /Game Logic/Signs/Credits Canvas (1)/Music Credit Canvas/Border
     /Game Logic/Signs/Credits Canvas (1)/Music Credit Canvas/Music credit
     /Game Logic/Signs/Credits Canvas (1)/Music Credit Canvas/Title
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Author portait border/Author name
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Author portait border/Author portait image
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Author portait border/Author pretext
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Border
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Border (1)
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Border (2)/CE Title (1)/Image
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Border (2)/CE Title (2)
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Border (2)/CE Title (3)
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Border (3)/CE Title (1)/Image
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Border (3)/CE Title (2)
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Border (3)/CE Title (3)
+    /Game Logic/Signs/Credits Canvas (CE WIP)/CE Title
+    /Game Logic/Signs/Credits Canvas (CE WIP)/CE Title (1)
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Link (1)/Link Icon
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Link (2)/Link Icon
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Link (3)/Link Icon
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Music Credit Canvas/Border
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Music Credit Canvas/Music credit
+    /Game Logic/Signs/Credits Canvas (CE WIP)/Music Credit Canvas/Title
     /Game Logic/Signs/Credits Canvas/Author portait border/Author name
     /Game Logic/Signs/Credits Canvas/Author portait border/Author portait image
     /Game Logic/Signs/Credits Canvas/Author portait border/Author pretext
@@ -1378,6 +2499,13 @@
     /Game Logic/Signs/Tutorial Canvas/Contents/Tutorial text (D)
     /Game Logic/Signs/Tutorial Canvas/Contents/Tutorial text (M)
     /Game Logic/Snakes/Snake/Cat Loop
+    /Game Logic/Snakes/Snake/Geo/Cat Attack Sound
+    /Game Logic/Snakes/Snake/Geo/Cat Death Sound
+    /Game Logic/Snakes/Snake/Geo/Cat Stuff/cat geo/cat geo (1)
+    /Game Logic/Snakes/Snake/Geo/Snake Attack Sound
+    /Game Logic/Snakes/Snake/Geo/Snake Death Sound
+    /Game Logic/Snakes/Snake/Geo/Snake Stuff/Snake Geo/snake/Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+    /Game Logic/Snakes/Snake/Geo/Snake Stuff/Snake Geo/snake/snake
     /Game Logic/Snakes/Snake/Snake Loop
     /Game Logic/Snakes/SnakeDispenser Spawns/SnakeDispenser Spawn (0)
     /Game Logic/Snakes/SnakeDispenser Spawns/SnakeDispenser Spawn (1)
@@ -1397,31 +2525,67 @@
     /Game Logic/Switch Boxes/Switchbox (0)/power off sound
     /Game Logic/Switch Boxes/Switchbox (0)/power on sound
     /Game Logic/Switch Boxes/Switchbox (0)/Switch Anim/needle slide/switch needle
+    /Game Logic/Switch Boxes/Switchbox (0)/Switch Anim/switch rotate/Interact to down
+    /Game Logic/Switch Boxes/Switchbox (0)/Switch Anim/switch rotate/interact to up
     /Game Logic/Switch Boxes/Switchbox (0)/Switch Anim/switch rotate/switch lever geo_day/switch lever geo_night
     /Game Logic/Switch Boxes/Switchbox (0)/switch down sound
     /Game Logic/Switch Boxes/Switchbox (0)/switch panel geo_day/switch panel geo_night
     /Game Logic/Switch Boxes/Switchbox (0)/switch up sound
+    /Game Logic/Switch Boxes/Switchbox (0)/Switchbox waypoint/waypoint quad
     /Game Logic/Switch Boxes/Switchbox (1)/power off sound
     /Game Logic/Switch Boxes/Switchbox (1)/power on sound
     /Game Logic/Switch Boxes/Switchbox (1)/Switch Anim/needle slide/switch needle
+    /Game Logic/Switch Boxes/Switchbox (1)/Switch Anim/switch rotate/Interact to down
+    /Game Logic/Switch Boxes/Switchbox (1)/Switch Anim/switch rotate/interact to up
     /Game Logic/Switch Boxes/Switchbox (1)/Switch Anim/switch rotate/switch lever geo_day/switch lever geo_night
     /Game Logic/Switch Boxes/Switchbox (1)/switch down sound
     /Game Logic/Switch Boxes/Switchbox (1)/switch panel geo_day/switch panel geo_night
     /Game Logic/Switch Boxes/Switchbox (1)/switch up sound
+    /Game Logic/Switch Boxes/Switchbox (1)/Switchbox waypoint/waypoint quad
     /Game Logic/Switch Boxes/Switchbox (2)/power off sound
     /Game Logic/Switch Boxes/Switchbox (2)/power on sound
     /Game Logic/Switch Boxes/Switchbox (2)/Switch Anim/needle slide/switch needle
+    /Game Logic/Switch Boxes/Switchbox (2)/Switch Anim/switch rotate/Interact to down
+    /Game Logic/Switch Boxes/Switchbox (2)/Switch Anim/switch rotate/interact to up
     /Game Logic/Switch Boxes/Switchbox (2)/Switch Anim/switch rotate/switch lever geo_day/switch lever geo_night
     /Game Logic/Switch Boxes/Switchbox (2)/switch down sound
     /Game Logic/Switch Boxes/Switchbox (2)/switch panel geo_day/switch panel geo_night
     /Game Logic/Switch Boxes/Switchbox (2)/switch up sound
+    /Game Logic/Switch Boxes/Switchbox (2)/Switchbox waypoint/waypoint quad
     /Game Logic/Switch Boxes/Switchbox (3)/power off sound
     /Game Logic/Switch Boxes/Switchbox (3)/power on sound
     /Game Logic/Switch Boxes/Switchbox (3)/Switch Anim/needle slide/switch needle
+    /Game Logic/Switch Boxes/Switchbox (3)/Switch Anim/switch rotate/Interact to down
+    /Game Logic/Switch Boxes/Switchbox (3)/Switch Anim/switch rotate/interact to up
     /Game Logic/Switch Boxes/Switchbox (3)/Switch Anim/switch rotate/switch lever geo_day/switch lever geo_night
     /Game Logic/Switch Boxes/Switchbox (3)/switch down sound
     /Game Logic/Switch Boxes/Switchbox (3)/switch panel geo_day/switch panel geo_night
     /Game Logic/Switch Boxes/Switchbox (3)/switch up sound
+    /Game Logic/Switch Boxes/Switchbox (3)/Switchbox waypoint/waypoint quad
+    /Game Logic/Team Circles/Team Circle (0)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (0)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (1)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (1)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (10)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (10)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (11)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (11)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (2)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (2)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (3)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (3)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (4)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (4)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (5)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (5)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (6)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (6)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (7)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (7)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (8)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (8)/Team Circle Point
+    /Game Logic/Team Circles/Team Circle (9)/Team Circle Lit
+    /Game Logic/Team Circles/Team Circle (9)/Team Circle Point
     /Game Logic/Weapons/Bear Trap (0)/Bear Trap Anim/bear trap geo
     /Game Logic/Weapons/Bear Trap (0)/Bear Trap Anim/bear trap jaw (0)
     /Game Logic/Weapons/Bear Trap (0)/Bear Trap Anim/bear trap jaw (1)
@@ -1430,6 +2594,7 @@
     /Game Logic/Weapons/Bear Trap (0)/Trap Deploy Sound
     /Game Logic/Weapons/Bear Trap (0)/Trap lethal bounds
     /Game Logic/Weapons/Bear Trap (0)/Trap Trigger Sound
+    /Game Logic/Weapons/Bear Trap (0)/VR Disarm interact
     /Game Logic/Weapons/Bear Trap (1)/Bear Trap Anim/bear trap geo
     /Game Logic/Weapons/Bear Trap (1)/Bear Trap Anim/bear trap jaw (0)
     /Game Logic/Weapons/Bear Trap (1)/Bear Trap Anim/bear trap jaw (1)
@@ -1438,6 +2603,7 @@
     /Game Logic/Weapons/Bear Trap (1)/Trap Deploy Sound
     /Game Logic/Weapons/Bear Trap (1)/Trap lethal bounds
     /Game Logic/Weapons/Bear Trap (1)/Trap Trigger Sound
+    /Game Logic/Weapons/Bear Trap (1)/VR Disarm interact
     /Game Logic/Weapons/Bear Trap (2)/Bear Trap Anim/bear trap geo
     /Game Logic/Weapons/Bear Trap (2)/Bear Trap Anim/bear trap jaw (0)
     /Game Logic/Weapons/Bear Trap (2)/Bear Trap Anim/bear trap jaw (1)
@@ -1446,31 +2612,62 @@
     /Game Logic/Weapons/Bear Trap (2)/Trap Deploy Sound
     /Game Logic/Weapons/Bear Trap (2)/Trap lethal bounds
     /Game Logic/Weapons/Bear Trap (2)/Trap Trigger Sound
+    /Game Logic/Weapons/Bear Trap (2)/VR Disarm interact
+    /Game Logic/Weapons/Knife (0)/Blade
     /Game Logic/Weapons/Knife (0)/Collision geo
     /Game Logic/Weapons/Knife (0)/Exact Gun
     /Game Logic/Weapons/Knife (0)/Slash Anim/Slash/knife geo
+    /Game Logic/Weapons/Knife (0)/Slash Anim/Slash/knife geo xmas
+    /Game Logic/Weapons/Knife (0)/Spin sound
+    /Game Logic/Weapons/Knife (0)/Stab sound
+    /Game Logic/Weapons/Knife (1)/Blade
     /Game Logic/Weapons/Knife (1)/Collision geo
     /Game Logic/Weapons/Knife (1)/Exact Gun
     /Game Logic/Weapons/Knife (1)/Slash Anim/Slash/knife geo
+    /Game Logic/Weapons/Knife (1)/Slash Anim/Slash/knife geo xmas
+    /Game Logic/Weapons/Knife (1)/Spin sound
+    /Game Logic/Weapons/Knife (1)/Stab sound
+    /Game Logic/Weapons/Knife (2)/Blade
     /Game Logic/Weapons/Knife (2)/Collision geo
     /Game Logic/Weapons/Knife (2)/Exact Gun
     /Game Logic/Weapons/Knife (2)/Slash Anim/Slash/knife geo
+    /Game Logic/Weapons/Knife (2)/Slash Anim/Slash/knife geo xmas
+    /Game Logic/Weapons/Knife (2)/Spin sound
+    /Game Logic/Weapons/Knife (2)/Stab sound
+    /Game Logic/Weapons/Knife (3)/Blade
     /Game Logic/Weapons/Knife (3)/Collision geo
     /Game Logic/Weapons/Knife (3)/Exact Gun
     /Game Logic/Weapons/Knife (3)/Slash Anim/Slash/knife geo
+    /Game Logic/Weapons/Knife (3)/Slash Anim/Slash/knife geo xmas
+    /Game Logic/Weapons/Knife (3)/Spin sound
+    /Game Logic/Weapons/Knife (3)/Stab sound
+    /Game Logic/Weapons/Knife (4)/Blade
     /Game Logic/Weapons/Knife (4)/Collision geo
     /Game Logic/Weapons/Knife (4)/Exact Gun
     /Game Logic/Weapons/Knife (4)/Slash Anim/Slash/knife geo
+    /Game Logic/Weapons/Knife (4)/Slash Anim/Slash/knife geo xmas
+    /Game Logic/Weapons/Knife (4)/Spin sound
+    /Game Logic/Weapons/Knife (4)/Stab sound
+    /Game Logic/Weapons/Knife (5)/Blade
     /Game Logic/Weapons/Knife (5)/Collision geo
     /Game Logic/Weapons/Knife (5)/Exact Gun
     /Game Logic/Weapons/Knife (5)/Slash Anim/Slash/knife geo
+    /Game Logic/Weapons/Knife (5)/Slash Anim/Slash/knife geo xmas
+    /Game Logic/Weapons/Knife (5)/Spin sound
+    /Game Logic/Weapons/Knife (5)/Stab sound
     /Game Logic/Weapons/Pickup reset point
     /Game Logic/Weapons/Revolver/Collision geo (0)
     /Game Logic/Weapons/Revolver/Collision geo (1)
     /Game Logic/Weapons/Revolver/Dryfire sound
     /Game Logic/Weapons/Revolver/Exact Gun
+    /Game Logic/Weapons/Revolver/Gunshot sound
+    /Game Logic/Weapons/Revolver/Hit sound
     /Game Logic/Weapons/Revolver/Muzzle
+    /Game Logic/Weapons/Revolver/Patron skin sound
     /Game Logic/Weapons/Revolver/Recoil Anim/Recoil/geo
+    /Game Logic/Weapons/Revolver/Recoil Anim/Recoil/geo (patron)/Patron gun particles
+    /Game Logic/Weapons/Revolver/Recoil Anim/Recoil/geo (xmas)/reindeer glow
+    /Game Logic/Weapons/Revolver/Recoil Anim/Recoil/muzzle flash
     /Game Logic/Weapons/Revolver/Reload sound
     /Game Logic/Weapons/Unlockables/Frag (0)/Arming Sound
     /Game Logic/Weapons/Unlockables/Frag (0)/Exact Gun
@@ -1479,19 +2676,26 @@
     /Game Logic/Weapons/Unlockables/Frag (0)/Intact/Collision geo
     /Game Logic/Weapons/Unlockables/Frag (0)/Intact/frag geo
     /Game Logic/Weapons/Unlockables/Frag (0)/Intact/Pin/frag pin geo
+    /Game Logic/Weapons/Unlockables/Frag (0)/Stab sound
     /Game Logic/Weapons/Unlockables/Luger (0)/Collision geo (0)
     /Game Logic/Weapons/Unlockables/Luger (0)/Collision geo (1)
     /Game Logic/Weapons/Unlockables/Luger (0)/Dryfire sound
     /Game Logic/Weapons/Unlockables/Luger (0)/Exact Gun
+    /Game Logic/Weapons/Unlockables/Luger (0)/Gunshot sound
+    /Game Logic/Weapons/Unlockables/Luger (0)/Hit sound
     /Game Logic/Weapons/Unlockables/Luger (0)/Muzzle
     /Game Logic/Weapons/Unlockables/Luger (0)/Recoil Anim/Recoil/geo
+    /Game Logic/Weapons/Unlockables/Luger (0)/Recoil Anim/Recoil/muzzle flash
     /Game Logic/Weapons/Unlockables/Luger (0)/Reload sound
     /Game Logic/Weapons/Unlockables/Shotgun (0)/Collision geo (0)
     /Game Logic/Weapons/Unlockables/Shotgun (0)/Collision geo (1)
     /Game Logic/Weapons/Unlockables/Shotgun (0)/Dryfire sound
     /Game Logic/Weapons/Unlockables/Shotgun (0)/Exact Gun
+    /Game Logic/Weapons/Unlockables/Shotgun (0)/Gunshot sound
+    /Game Logic/Weapons/Unlockables/Shotgun (0)/Hit sound
     /Game Logic/Weapons/Unlockables/Shotgun (0)/Muzzle
     /Game Logic/Weapons/Unlockables/Shotgun (0)/Recoil Anim/Recoil/geo
+    /Game Logic/Weapons/Unlockables/Shotgun (0)/Recoil Anim/Recoil/muzzle flash
     /Game Logic/Weapons/Unlockables/Shotgun (0)/Reload sound
     /Game Logic/Weapons/Unlockables/Smoke (0)/Arming Sound
     /Game Logic/Weapons/Unlockables/Smoke (0)/Collision geo
@@ -1508,288 +2712,73 @@
     /Game Logic/Wine bottle spawns/Wine spawn (5)
     /Game Logic/Wine bottle spawns/Wine spawn (6)
     /Game Logic/Wine bottle/Exact gun
+    /Game Logic/Wine bottle/Poision anim/poison anim bottle
     /Game Logic/Wine bottle/Spout
     /Game Logic/Wine bottle/wine bottle geo
     /Game Logic/Wine glass (1)/drink sound
     /Game Logic/Wine glass (1)/Exact gun
     /Game Logic/Wine glass (1)/fill sound
+    /Game Logic/Wine glass (1)/wine fill
     /Game Logic/Wine glass (2)/drink sound
     /Game Logic/Wine glass (2)/Exact gun
     /Game Logic/Wine glass (2)/fill sound
+    /Game Logic/Wine glass (2)/wine fill
     /Game Logic/Wine glass/drink sound
     /Game Logic/Wine glass/Exact gun
     /Game Logic/Wine glass/fill sound
+    /Game Logic/Wine glass/wine fill
     /New Game Object
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Loading Data
     /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Margin Lower
     /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Margin Upper
     /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1 Label
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1/TMP UI SubObject [Klarissa SDF Material]
     /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 10 Label
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 10/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 10/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 10/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 10/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 10/TMP UI SubObject [Klarissa SDF Material]
     /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 15+ Label
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 15+/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 15+/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 15+/TMP UI SubObject [Klarissa SDF Material]
     /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5 Label
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
+    /Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5/TMP UI SubObject [Klarissa SDF Material]
     /Patreon Canvas/Background/Static Frame/Gradient/Image
     /Patreon Canvas/Background/Static Frame/Gradient/portrait
     /Patreon Canvas/Background/Static Frame/LinkInfo/Patreon Logo
     /Patreon Canvas/Background/Static Frame/LinkInfo/Patreon URL image
     /Patreon Canvas/Background/Static Frame/LinkInfo/PatreonCaption1
+    /Patreon Canvas/Background/Static Frame/Present Frame/Error Code Text
     /Patreon Canvas/Background/Static Frame/Present Frame/PresentHeader
     /Patreon Canvas/Background/Static Frame/Present Frame/PresentNames
     /Patreon Canvas/Background/Static Frame/Present Frame/TotalCount
     /Patreon Canvas/Outline
-    /PhotonMono 27E94
-    /VRCPlayer[Remote] 09570563 365/AnimationController/EyeTrackingTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/ChestTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/HeadEffector/EmojiGenerator
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/HeadEffector/HeadBoneOffset
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/HeadEffector/USpeak
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/HipTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/LeftEffector
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/LeftElbowTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/LeftFootTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/LeftKneeTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/LeftShoulderTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/RightEffector
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/RightElbowTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/RightFootTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/RightKneeTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/HeadAndHandIK/RightShoulderTarget
-    /VRCPlayer[Remote] 09570563 365/AnimationController/Osc
-    /VRCPlayer[Remote] 09570563 365/AnimationController/PlayableController
-    /VRCPlayer[Remote] 09570563 365/BigData
-    /VRCPlayer[Remote] 09570563 365/CameraMount
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Left leg/Left knee/Left ankle/Left ankle_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Right leg/Right knee/Right ankle/Right ankle_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/L index finger/L index finger.001/L index finger.001_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/L mid finger/L mid finger.001/L mid finger.001_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/L thumb/L thumb.001/L thumb.001_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Tbone/Tbone.001/Tbone.001_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Avatar head parent/Avatar head target
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Avatar_eyesRoot
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/HmdPivot
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Left eye/Left eye_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Right eye/Right eye_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/R index finger/R index finger.001/R index finger.001_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/R mid finger/R mid finger.001/R mid finger.001_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/R thumb/R thumb.001/R thumb.001_end
-    /VRCPlayer[Remote] 09570563 365/ForwardDirection/Avatar/Body
-    /VRCPlayer[Remote] 09570563 365/Haptics_Player/HandL
-    /VRCPlayer[Remote] 09570563 365/Haptics_Player/HandR
-    /VRCPlayer[Remote] 09570563 365/SelectRegion
-    /VRCPlayer[Remote] 09570563 365/UserCameraIndicator/Indicator/Speaker
-    /VRCPlayer[Remote] 37160356 340/AnimationController/EyeTrackingTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/ChestTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/HeadEffector/EmojiGenerator
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/HeadEffector/HeadBoneOffset
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/HeadEffector/USpeak
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/HipTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/LeftEffector
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/LeftElbowTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/LeftFootTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/LeftKneeTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/LeftShoulderTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/RightEffector
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/RightElbowTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/RightFootTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/RightKneeTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/HeadAndHandIK/RightShoulderTarget
-    /VRCPlayer[Remote] 37160356 340/AnimationController/Osc
-    /VRCPlayer[Remote] 37160356 340/AnimationController/PlayableController
-    /VRCPlayer[Remote] 37160356 340/BigData
-    /VRCPlayer[Remote] 37160356 340/CameraMount
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/LEFT THIGH/LEFT CALF/LEFT FOOT/LEFT HEEL/LEFT HEEL_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/LEFT THIGH/LEFT CALF/LEFT FOOT/LEFT TOE/LEFT TOE_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/RIGHT THIGH/RIGHT CALF/RIGHT FOOT/RIGHT HEEL/RIGHT HEEL_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/RIGHT THIGH/RIGHT CALF/RIGHT FOOT/RIGHT TOE/RIGHT TOE_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/LEFT SCARF/LS2/LS3/LS4/LS4_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/LEFT SHOULDER/LEFT UPPER ARM/LEFT FORE ARM/LEFT HAND/BANJO/BANJO_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/LEFT SHOULDER/LEFT UPPER ARM/LEFT FORE ARM/LEFT HAND/LEFT INDEX/Bone.003_L.010/Bone.003_L.011/Bone.003_L.011_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/LEFT SHOULDER/LEFT UPPER ARM/LEFT FORE ARM/LEFT HAND/LEFT MIDDLE/Bone.003_L.013/Bone.003_L.014/Bone.003_L.014_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/LEFT SHOULDER/LEFT UPPER ARM/LEFT FORE ARM/LEFT HAND/LEFT PINKY/Bone.003_L.019/Bone.003_L.020/Bone.003_L.020_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/LEFT SHOULDER/LEFT UPPER ARM/LEFT FORE ARM/LEFT HAND/LEFT RING/Bone.003_L.016/Bone.003_L.017/Bone.003_L.017_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/LEFT SHOULDER/LEFT UPPER ARM/LEFT FORE ARM/LEFT HAND/LEFT THUMB/Bone.003_L.008/Bone.003_L.008_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/NECK/HEAD/HmdPivot
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/NECK/HEAD/HOOD/HOOD_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/NECK/HEAD/JAW/JAW_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/RIGHT SCARF/RS2/RS3/RS4/RS4_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/RIGHT SHOULDER/RIGHT UPPER ARM/RIGHT FORE ARM/RIGHT HAND/RIGHT INDEX/Bone.003_R.010/Bone.003_R.011/Bone.003_R.011_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/RIGHT SHOULDER/RIGHT UPPER ARM/RIGHT FORE ARM/RIGHT HAND/RIGHT MIDDLE/Bone.003_R.013/Bone.003_R.014/Bone.003_R.014_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/RIGHT SHOULDER/RIGHT UPPER ARM/RIGHT FORE ARM/RIGHT HAND/RIGHT PINKY/Bone.003_R.019/Bone.003_R.020/Bone.003_R.020_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/RIGHT SHOULDER/RIGHT UPPER ARM/RIGHT FORE ARM/RIGHT HAND/RIGHT RING/Bone.003_R.016/Bone.003_R.017/Bone.003_R.017_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/RIGHT SHOULDER/RIGHT UPPER ARM/RIGHT FORE ARM/RIGHT HAND/RIGHT THUMB/Bone.003_R.008/Bone.003_R.008_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Armature/HIPS/SPINE/CHEST/UPPER CHEST/RIGHT SHOULDER/RIGHT UPPER ARM/RIGHT FORE ARM/RIGHT HAND/SWORD/SWORD_end
-    /VRCPlayer[Remote] 37160356 340/ForwardDirection/Avatar/Crow
-    /VRCPlayer[Remote] 37160356 340/Haptics_Player/HandL
-    /VRCPlayer[Remote] 37160356 340/Haptics_Player/HandR
-    /VRCPlayer[Remote] 37160356 340/SelectRegion
-    /VRCPlayer[Remote] 37160356 340/UserCameraIndicator/Indicator/Speaker
-    /VRCPlayer[Remote] 61231073 298/AnimationController/EyeTrackingTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/ChestTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/HeadEffector/EmojiGenerator
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/HeadEffector/HeadBoneOffset
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/HeadEffector/USpeak
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/HipTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/LeftEffector
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/LeftElbowTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/LeftFootTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/LeftKneeTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/LeftShoulderTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/RightEffector
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/RightElbowTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/RightFootTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/RightKneeTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/HeadAndHandIK/RightShoulderTarget
-    /VRCPlayer[Remote] 61231073 298/AnimationController/Osc
-    /VRCPlayer[Remote] 61231073 298/AnimationController/PlayableController
-    /VRCPlayer[Remote] 61231073 298/BigData
-    /VRCPlayer[Remote] 61231073 298/CameraMount
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/Avatar head parent/Avatar head target
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/Avatar_eyesRoot
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/HmdPivot
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/L Eye
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/R Eye
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3
-    /VRCPlayer[Remote] 61231073 298/ForwardDirection/Avatar/pawn
-    /VRCPlayer[Remote] 61231073 298/Haptics_Player/HandL
-    /VRCPlayer[Remote] 61231073 298/Haptics_Player/HandR
-    /VRCPlayer[Remote] 61231073 298/SelectRegion
-    /VRCPlayer[Remote] 61231073 298/UserCameraIndicator/Indicator/Speaker
-    /VRCPlayer[Remote] 65642021 368/AnimationController/EyeTrackingTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/ChestTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/HeadEffector/EmojiGenerator
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/HeadEffector/HeadBoneOffset
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/HeadEffector/USpeak
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/HipTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/LeftEffector
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/LeftElbowTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/LeftFootTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/LeftKneeTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/LeftShoulderTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/RightEffector
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/RightElbowTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/RightFootTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/RightKneeTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/HeadAndHandIK/RightShoulderTarget
-    /VRCPlayer[Remote] 65642021 368/AnimationController/Osc
-    /VRCPlayer[Remote] 65642021 368/AnimationController/PlayableController
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/Finger Index R
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/FingerIndexL
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/FingerMiddleL
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/FingerMiddleR
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/FingerRingL
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/FingerRingR
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/FootL
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/FootR
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/HandL
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/HandR
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/Head
-    /VRCPlayer[Remote] 65642021 368/AvatarDynamics_Player/Torso
-    /VRCPlayer[Remote] 65642021 368/BigData
-    /VRCPlayer[Remote] 65642021 368/CameraMount
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End/mixamorig:LeftToe_End_end/mixamorig:LeftToe_End_end_end/mixamorig:LeftToe_End_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End/mixamorig:RightToe_End_end/mixamorig:RightToe_End_end_end/mixamorig:RightToe_End_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3/mixamorig:LeftHandIndex4/mixamorig:LeftHandIndex4_end/mixamorig:LeftHandIndex4_end_end/mixamorig:LeftHandIndex4_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3/mixamorig:LeftHandMiddle4/mixamorig:LeftHandMiddle4_end/mixamorig:LeftHandMiddle4_end_end/mixamorig:LeftHandMiddle4_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2/mixamorig:LeftHandRing3/mixamorig:LeftHandRing4/mixamorig:LeftHandRing4_end/mixamorig:LeftHandRing4_end_end/mixamorig:LeftHandRing4_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3/mixamorig:LeftHandThumb4/mixamorig:LeftHandThumb4_end/mixamorig:LeftHandThumb4_end_end/mixamorig:LeftHandThumb4_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/HmdPivot
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End/mixamorig:HeadTop_End_end/mixamorig:HeadTop_End_end_end/mixamorig:HeadTop_End_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3/mixamorig:RightHandIndex4/mixamorig:RightHandIndex4_end/mixamorig:RightHandIndex4_end_end/mixamorig:RightHandIndex4_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3/mixamorig:RightHandMiddle4/mixamorig:RightHandMiddle4_end/mixamorig:RightHandMiddle4_end_end/mixamorig:RightHandMiddle4_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2/mixamorig:RightHandRing3/mixamorig:RightHandRing4/mixamorig:RightHandRing4_end/mixamorig:RightHandRing4_end_end/mixamorig:RightHandRing4_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Armature/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3/mixamorig:RightHandThumb4/mixamorig:RightHandThumb4_end/mixamorig:RightHandThumb4_end_end/mixamorig:RightHandThumb4_end_end_end
-    /VRCPlayer[Remote] 65642021 368/ForwardDirection/Avatar/Human_Builder
-    /VRCPlayer[Remote] 65642021 368/Haptics_Player/HandL
-    /VRCPlayer[Remote] 65642021 368/Haptics_Player/HandR
-    /VRCPlayer[Remote] 65642021 368/SelectRegion
-    /VRCPlayer[Remote] 65642021 368/UserCameraIndicator/Indicator/Speaker
-    /VRCPlayer[Remote] 74172001 353/AnimationController/EyeTrackingTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/ChestTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/HeadEffector/EmojiGenerator
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/HeadEffector/HeadBoneOffset
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/HeadEffector/USpeak
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/HipTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/LeftEffector
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/LeftElbowTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/LeftFootTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/LeftKneeTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/LeftShoulderTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/RightEffector
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/RightElbowTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/RightFootTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/RightKneeTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/HeadAndHandIK/RightShoulderTarget
-    /VRCPlayer[Remote] 74172001 353/AnimationController/Osc
-    /VRCPlayer[Remote] 74172001 353/AnimationController/PlayableController
-    /VRCPlayer[Remote] 74172001 353/BigData
-    /VRCPlayer[Remote] 74172001 353/CameraMount
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Left leg/Left knee/Left ankle/Sprite_Limb_LeftFoot
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Left leg/Left knee/Sprite_Limb_LeftLowerLeg
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Left leg/Sprite_Limb_LeftUpperLeg
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Right leg/Right knee/Right ankle/Sprite_Limb_RightFoot
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Right leg/Right knee/Sprite_Limb_RightLowerLeg
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Right leg/Sprite_Limb_RightUpperLeg
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Sprite_Limb_LeftHand
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Sprite_Limb_LeftLowerArm
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Sprite_Limb_LeftUpperArm
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/HmdPivot
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Sprite_Limb_Head
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Sprite_Limb_RightHand
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Sprite_Limb_RightLowerArm
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Sprite_Limb_RightUpperArm
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Sprite_Limb_Chest
-    /VRCPlayer[Remote] 74172001 353/ForwardDirection/Avatar/Armature/Hips/Sprite_Limb_Hips
-    /VRCPlayer[Remote] 74172001 353/Haptics_Player/HandL
-    /VRCPlayer[Remote] 74172001 353/Haptics_Player/HandR
-    /VRCPlayer[Remote] 74172001 353/SelectRegion
-    /VRCPlayer[Remote] 74172001 353/UserCameraIndicator/Indicator/Speaker
-    /VRCPlayer[Remote] 91769125 360/AnimationController/EyeTrackingTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/ChestTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/HeadEffector/EmojiGenerator
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/HeadEffector/HeadBoneOffset
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/HeadEffector/USpeak
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/HipTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/LeftEffector
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/LeftElbowTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/LeftFootTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/LeftKneeTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/LeftShoulderTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/RightEffector
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/RightElbowTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/RightFootTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/RightKneeTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/HeadAndHandIK/RightShoulderTarget
-    /VRCPlayer[Remote] 91769125 360/AnimationController/Osc
-    /VRCPlayer[Remote] 91769125 360/AnimationController/PlayableController
-    /VRCPlayer[Remote] 91769125 360/BigData
-    /VRCPlayer[Remote] 91769125 360/CameraMount
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftToe_End
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightToe_End
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndex4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddle4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinky4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRing4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumb4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Loading_Rotator_Bone1
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/HeadTop_End
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/HmdPivot
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/LeftEye
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/RightEye
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndex4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddle4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinky4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRing4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumb4
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/body
-    /VRCPlayer[Remote] 91769125 360/ForwardDirection/Avatar/part_Beams
-    /VRCPlayer[Remote] 91769125 360/Haptics_Player/HandL
-    /VRCPlayer[Remote] 91769125 360/Haptics_Player/HandR
-    /VRCPlayer[Remote] 91769125 360/SelectRegion
-    /VRCPlayer[Remote] 91769125 360/UserCameraIndicator/Indicator/Speaker
+    /Patreon Credits
+    /Portals enabler
+    /VersionHandler
