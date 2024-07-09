@@ -1,13 +1,3 @@
-<div align="center">
-
-# The Black Cat | 08/07/24
-</div>
-
-<div align="center">
-
-## GameObject Fullpaths:
-</div>
-
     /!ftraceLightmaps
     /BGM/BLACK CAT MUSIC
     /CE UI/Audio Source
@@ -120,6 +110,7 @@
     /Economy/Items/Event Items/UI Stage Controls/enable stage canvas (1)/Toggle/Image
     /Economy/Items/Event Items/UI Stage Controls/enable stage canvas/Toggle/Background
     /Economy/Items/Event Items/UI Stage Controls/enable stage canvas/Toggle/Image
+    /EventSystem
     /FBX/BASE/The Black Cat Base/QUEST TOGGLE OFF/barwater
     /FBX/BASE/The Black Cat Base/QUEST TOGGLE OFF/leaves01
     /FBX/BASE/The Black Cat Base/QUEST TOGGLE OFF/leaves02
@@ -581,20 +572,15 @@
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (13)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (14)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (15)
-    /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (16)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (17)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (18)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (19)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (2)
-    /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (20)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (21)
-    /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (22)
-    /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (23)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (24)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (25)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (26)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (27)
-    /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (28)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (29)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (3)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (30)
@@ -605,8 +591,6 @@
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (6)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (7)
     /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (8)
-    /FBX/MESHES/plaque/Text/COl_1 (1)/Text (TMP) (9)
-    /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (1)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (10)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (11)
@@ -621,7 +605,6 @@
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (2)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (20)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (21)
-    /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (22)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (23)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (24)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (25)
@@ -629,15 +612,11 @@
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (27)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (28)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (29)
-    /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (3)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (30)
-    /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (31)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (32)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (4)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (5)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (6)
-    /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (7)
-    /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (8)
     /FBX/MESHES/plaque/Text/COl_1 (2)/Text (TMP) (9)
     /FBX/MESHES/plaque/Text/COl_1 (3)/Text (TMP)
     /FBX/MESHES/plaque/Text/COl_1 (3)/Text (TMP) (1)
@@ -752,10 +731,7 @@
     /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (19)
     /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (2)
     /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (20)
-    /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (21)
     /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (22)
-    /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (23)
-    /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (24)
     /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (25)
     /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (26)
     /FBX/MESHES/plaque/Text/COl_1/Text (TMP) (27)
@@ -1163,7 +1139,7 @@
     /PATREON/Contributor Name Canvas/patreon canvas/v/border (1)
     /PATREON/Disable /Button/BG/BG_2/Top/Text (TMP) (3)
     /PATREON/DisBridge/== Plugins ==
-    /PhotonMono 24C1D
+    /PhotonMono 27E94
     /PICKUPS/gooose/goose/Cube/goose
     /PICKUPS/On/banana pancake 01 (1)/banana pancake01
     /PICKUPS/On/banana pancake 01 (2)/banana pancake01
@@ -1490,4 +1466,3 @@
     /UI/sgb links (2)/Patreon/image link patreon/Text (Legacy)
     /UI/sgb links (2)/Patreon/image link patreon/Text (Legacy) (1)
     /UI/sgb links (2)/Patreon/Text (TMP)
-
