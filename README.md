@@ -8,7 +8,7 @@ Changed how to we get the `GameObjects` and `Udon event` keys.
 Now able to get inactive `GameObjects` and `Udon event` keys
 
 # Version 1.2
-Changed how the file is writed from `python` > `c#`
+Changed how the file is written from `python` > `c#`
 
 # Version 1.1
 Sorted `GameObjects` list by their name in alphabetical order
